@@ -93,6 +93,7 @@ Actualmente estoy finalizando la lógica del backend e integrándola con el fron
 
 📧 Email: manecisterna@gmail.com
 💼 LinkedIn: www.linkedin.com/in/maría-inés-cisterna-escobar
+🎮 Twitch: https://www.twitch.tv/ariacist
 
 ---
 
