@@ -147,11 +147,19 @@ Proyecto enfocado en integración completa frontend + backend con JAVA
 🎮 Twitch: https://www.twitch.tv/ariacist
 
 ---
-
-✨ Fusionando experiencia en salud con tecnología, creatividad y desarrollo digital
-
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/?username=manecist&color_snake=ff4da6&color_dots=1a1b27,0f111a,ffffff,ff4da6,ff4da6" />
+  <b>✨ En constante aprendizaje | 💻 Construyendo mi camino en tecnología | 🚀 Creciendo cada día ✨</b>
 </p>
 
+<p align="center">
+  💖 <i>Fusionando salud, tecnología y creatividad digital</i> 💖
+</p>
+
+<p align="center">
+  🎮 <b>Gaming | Streaming | Desarrollo de videojuegos en proceso</b> 🎮
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120">
+</p>
 
