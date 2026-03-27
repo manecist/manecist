@@ -17,15 +17,15 @@
 
 ## 🧠 Sobre mí
 
-Soy una profesional con una base sólida en el área de la salud y una fuerte transición hacia el mundo tecnológico.
+Soy una profesional con una sólida base en el área de la salud y en proceso de transición hacia el mundo tecnológico.
 
 Durante más de 5 años me desempeñé como matrona en distintos contextos clínicos, desarrollando habilidades en gestión, trabajo en equipo, atención integral y toma de decisiones en entornos exigentes.
 
-Actualmente, estoy enfocando mi desarrollo profesional en el área TI, integrando conocimientos en desarrollo backend, frontend y marketing digital, con el objetivo de crear soluciones funcionales, optimizar procesos y aportar valor desde una mirada analítica y creativa.
+Actualmente, enfoco mi desarrollo en el área TI, integrando conocimientos en desarrollo backend, frontend y marketing digital, con el objetivo de crear soluciones funcionales, optimizar procesos y aportar valor desde una mirada analítica y creativa.
 
 Mi interés también se extiende al mundo de los videojuegos 🎮, donde combino desarrollo, creatividad y creación de contenido a través de streaming.
 
-Mi perfil combina experiencia en el área de la salud con una fuerte orientación hacia la tecnología, lo que me permite abordar problemas desde una perspectiva integral, humana y estratégica.
+Esta combinación entre salud y tecnología me permite abordar problemas desde una perspectiva integral, humana y estratégica.
 
 
 <p align="center">
@@ -46,7 +46,7 @@ Mi perfil combina experiencia en el área de la salud con una fuerte orientació
 ---
 ## 🛠 Tecnologías
 
-### 💻 Stack principal
+### 💻 Stack tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,bootstrap,spring,git,github&perline=5" />
