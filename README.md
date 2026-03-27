@@ -3,6 +3,7 @@
 💻 Desarrollador en formación de Java Full Stack
 🎯 Enfocada en tecnología, marketing digital y desarrollo de soluciones
 🎮 Streamer y entusiasta de los videojuegos
+🎓 Profesional Matrona con experiencia en el área de la salud
 
 ---
 
