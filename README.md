@@ -33,7 +33,7 @@ Mi interés también se extiende al mundo de los videojuegos 🎮, donde combino
 ### 💻 Stack principal
 
 <p align="center">
-  <img height="50" src="https://skillicons.dev/icons?i=java,mysql,html,css,js,bootstrap,spring,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,bootstrap,spring,git,github&perline=5" />
 </p>
 
 ---
