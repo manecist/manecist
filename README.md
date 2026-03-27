@@ -28,15 +28,46 @@ Mi interés también se extiende al mundo de los videojuegos 🎮, donde combino
 * 📈 Estrategias de marketing digital y marca personal
 
 ---
-
 ## 🛠 Tecnologías
 
-☕ Java | 🗄️ MySQL | 🌐 HTML | 🎨 CSS | 🟨 JavaScript 
-🎨 Bootstrap 5 | 🌱 Spring Boot | 🔐 Spring Security 
-🪪 JWT | 📄 JSP | 🍃 Thymeleaf | 🎮 Unreal Engine 5 
-📝 Microsoft Word | 📊 PowerPoint | 📈 Excel | 🤖 Inteligencia Artificial | 📊 Power BI 
-🏥 Sistemas de salud | 📊 Gestión de datos clínicos | 📋 Procesos asistenciales
-🧱 3D Builder | 🎨 Photoshop | 🎬 OBS Studio | ✂️ CapCut | 🎞️ Movie Maker
+### 💻 Stack principal
+
+<p align="center">
+  <img height="50" src="https://skillicons.dev/icons?i=java,mysql,html,css,js,bootstrap,spring,git,github&perline=5" />
+</p>
+
+---
+
+### ⚙️ Backend y especialización
+
+<p align="center">
+  🔐 <b>Spring Security</b> • 🪪 <b>JWT</b> • 📄 <b>JSP</b> • 🍃 <b>Thymeleaf</b>
+</p>
+
+---
+
+### 🎮 Desarrollo y creatividad
+
+<p align="center">
+  🎮 <b>Unreal Engine 5</b> • 📈 <b>Marketing Digital</b> • 🤖 <b>Inteligencia Artificial</b>
+</p>
+
+---
+
+### 🛠 Herramientas
+
+<p align="center">
+  📝 <b>Word</b> • 📊 <b>Excel</b> • 📊 <b>PowerPoint</b> • 📊 <b>Power BI</b> • 🎨 <b>Photoshop</b><br>
+  🎬 <b>OBS Studio</b> • ✂️ <b>CapCut</b> • 🎞️ <b>Movie Maker</b> • 🧱 <b>3D Builder</b>
+</p>
+
+---
+
+### 🏥 Experiencia en salud
+
+<p align="center">
+  🏥 Gestión clínica • 📋 Procesos asistenciales • 📊 Datos de pacientes
+</p>
 
 ---
 
