@@ -114,12 +114,13 @@ Proyecto enfocado en integración completa frontend + backend con JAVA
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manecist&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manecist&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manecist&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manecist&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
+
 ---
 
 ## 🌐 Intereses
