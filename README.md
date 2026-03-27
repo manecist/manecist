@@ -151,6 +151,7 @@ Proyecto enfocado en integración completa frontend + backend con JAVA
 ✨ Fusionando experiencia en salud con tecnología, creatividad y desarrollo digital
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manecist&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-contribution-grid-snake.vercel.app/?username=manecist&color_snake=ff4da6&color_dots=1a1b27,0f111a,ffffff,ff4da6,ff4da6" />
 </p>
+
 
