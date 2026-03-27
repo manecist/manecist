@@ -25,6 +25,9 @@ Actualmente, estoy enfocando mi desarrollo profesional en el área TI, integrand
 
 Mi interés también se extiende al mundo de los videojuegos 🎮, donde combino desarrollo, creatividad y creación de contenido a través de streaming.
 
+Mi perfil combina experiencia en el área de la salud con una fuerte orientación hacia la tecnología, lo que me permite abordar problemas desde una perspectiva integral, humana y estratégica.
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manecist&label=Visitas%20al%20perfil&color=ff4da6&style=flat" />
 </p>
