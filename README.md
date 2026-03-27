@@ -1,46 +1,42 @@
 # 👋 Hola, me presento soy María Cisterna
 
-💻 Desarrollador en formación de Java Full Stack
-🎯 Enfocada en tecnología, marketing digital y desarrollo de soluciones
-🎮 Streamer y entusiasta de los videojuegos
-🎓 Profesional Matrona con experiencia en el área de la salud
+💻 Desarrollador en formación | 🎓 Matrona
+🎯 Tecnología • Marketing Digital • Desarrollo de soluciones
+🎮 Gamer & Streamer
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy una profesional versátil con formación en el área de la salud (Matrona) y una fuerte orientación actual hacia el mundo tecnológico.
+Soy una profesional con una base sólida en el área de la salud y una fuerte transición hacia el mundo tecnológico.
 
-Cuento con más de 5 años de experiencia en el área clínica, desempeñándome en atención primaria y contextos intrahospitalarios, participando en procesos de atención integral, educación y prevención en salud.
+Durante más de 5 años me desempeñé como matrona en distintos contextos clínicos, desarrollando habilidades en gestión, trabajo en equipo, atención integral y toma de decisiones en entornos exigentes.
 
-Hoy, mi enfoque está en el desarrollo de habilidades en tecnología, combinando conocimientos en **backend, frontend y marketing digital**, con el objetivo de crear soluciones funcionales, optimizar procesos y desarrollar proyectos innovadores.
+Actualmente, estoy enfocando mi desarrollo profesional en el área TI, integrando conocimientos en desarrollo backend, frontend y marketing digital, con el objetivo de crear soluciones funcionales, optimizar procesos y aportar valor desde una mirada analítica y creativa.
 
-Me interesa especialmente el desarrollo de aplicaciones y, a futuro, la creación de videojuegos utilizando motores como Unreal Engine 5.
+Mi interés también se extiende al mundo de los videojuegos 🎮, donde combino desarrollo, creatividad y creación de contenido a través de streaming.
 
 ---
 
 ## 🚀 En qué estoy trabajando
 
-* Desarrollo backend con Java y Spring Boot
-* Creación de aplicaciones web (frontend + backend)
-* Gestión de bases de datos con MySQL
-* Aprendizaje de ciberseguridad y autenticación (JWT, Spring Security)
-* Exploración del desarrollo de videojuegos 🎮
+* ⚙️ Backend con Java + Spring Boot
+* 🌐 Desarrollo web (HTML, CSS, JavaScript, Bootstrap)
+* 🗄️ Modelado y gestión de bases de datos (MySQL)
+* 🔐 Seguridad y autenticación (Spring Security + JWT)
+* 🎮 Exploración en desarrollo de videojuegos (Unreal Engine 5)
+* 📈 Estrategias de marketing digital y marca personal
 
 ---
 
 ## 🛠 Tecnologías
 
-* ☕ Java
-* 🗄️ MySQL
-* 🌐 HTML, CSS, JavaScript
-* 🎨 Bootstrap 5
-* 🌱 Spring Boot
-* 🔐 Spring Security
-* 🪪 JWT
-* 📄 JSP
-* 🍃 Thymeleaf
-* 🎮 Unreal Engine 5
+☕ Java | 🗄️ MySQL | 🌐 HTML | 🎨 CSS | 🟨 JavaScript 
+🎨 Bootstrap 5 | 🌱 Spring Boot | 🔐 Spring Security 
+🪪 JWT | 📄 JSP | 🍃 Thymeleaf | 🎮 Unreal Engine 5 
+📝 Microsoft Word | 📊 PowerPoint | 📈 Excel | 🤖 Inteligencia Artificial | 📊 Power BI 
+🏥 Sistemas de salud | 📊 Gestión de datos clínicos | 📋 Procesos asistenciales
+🧱 3D Builder | 🎨 Photoshop | 🎬 OBS Studio | ✂️ CapCut | 🎞️ Movie Maker
 
 ---
 
@@ -67,11 +63,12 @@ Página web desarrollada únicamente en frontend con HTML, CSS, JavaScript y Boo
 
 ### 🔹 Ecommerce Full Stack (en desarrollo)
 
-Actualmente estoy finalizando la lógica del backend e integrándola con el frontend de una página de ecommerce, desarrollada completamente con Java Full Stack.
-✔ Desarrollo backend con Java y Spring Boot
-✔ Integración con frontend web
-✔ Gestión de productos y flujo de compra
-✔ Conexión a base de datos con MySQL
+Proyecto enfocado en integración completa frontend + backend con JAVA
+
+✔ Backend con Java y Spring Boot
+✔ Conexión a base de datos MySQL
+✔ Lógica de negocio de ecommerce
+✔ Integración completa con frontend
 
 👉 https://github.com/manecist
 
@@ -83,10 +80,11 @@ Actualmente estoy finalizando la lógica del backend e integrándola con el fron
 
 ## 🌐 Intereses
 
-* Desarrollo de software
-* Marketing digital y marca personal
-* Videojuegos y creación de contenido en Twitch
-* Innovación tecnológica
+* 💻 Desarrollo de software
+* 📈 Marketing digital y marca personal
+* 🎮 Videojuegos y creación de contenido
+* 🏥 Salud y gestión de procesos
+* 🚀 Innovación tecnológica
 
 ---
 
@@ -98,4 +96,4 @@ Actualmente estoy finalizando la lógica del backend e integrándola con el fron
 
 ---
 
-✨ En constante aprendizaje, combinando experiencia en salud con el mundo tecnológico
+✨ Fusionando experiencia en salud con tecnología, creatividad y desarrollo digital
