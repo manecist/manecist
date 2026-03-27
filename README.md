@@ -4,10 +4,13 @@
 <br>
 
 # 👋 Hola, me presento soy María Cisterna
+<h3 align="center"> 💻 Desarrollador JAVA FULL STACK | 🎓 Matrona con experiencia clinica </h3>
+<h4 align="center"> 🎯 Tecnología • Marketing Digital • Desarrollo de soluciones • 🎮 Gamer & Streamer </h4>
+<br>
+
 <p align="center">
-💻 Desarrollador en formación | 🎓 Matrona
-🎯 Tecnología • Marketing Digital • Desarrollo de soluciones
-🎮 Gamer & Streamer
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manecist&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manecist&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -21,6 +24,10 @@ Durante más de 5 años me desempeñé como matrona en distintos contextos clín
 Actualmente, estoy enfocando mi desarrollo profesional en el área TI, integrando conocimientos en desarrollo backend, frontend y marketing digital, con el objetivo de crear soluciones funcionales, optimizar procesos y aportar valor desde una mirada analítica y creativa.
 
 Mi interés también se extiende al mundo de los videojuegos 🎮, donde combino desarrollo, creatividad y creación de contenido a través de streaming.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manecist&label=Visitas%20al%20perfil&color=ff4da6&style=flat" />
+</p>
 
 ---
 
@@ -142,3 +149,8 @@ Proyecto enfocado en integración completa frontend + backend con JAVA
 ---
 
 ✨ Fusionando experiencia en salud con tecnología, creatividad y desarrollo digital
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manecist&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
