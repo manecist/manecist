@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora+Full+Stack+en+formación;Matrona+con+experiencia+en+salud;Java+%7C+Spring+Boot+%7C+Web;Marketing+Digital+y+Estrategia;Apasionada+por+la+tecnología+y+videojuegos&center=true&width=700&height=60&duration=4000&color=FF69B4&size=24">
 </p>
 <br>
-
 # 👋 Hola, me presento soy María Cisterna
-
+<p align="center">
 💻 Desarrollador en formación | 🎓 Matrona
 🎯 Tecnología • Marketing Digital • Desarrollo de soluciones
 🎮 Gamer & Streamer
+</p>
 
 ---
 
@@ -117,9 +117,8 @@ Proyecto enfocado en integración completa frontend + backend con JAVA
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manecist&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manecist&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🌐 Intereses
