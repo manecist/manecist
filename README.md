@@ -49,7 +49,7 @@ Aplicación de consola basada en Programación Orientada a Objetos
 ✔ Carrito de compras
 ✔ Flujo de compra
 
-👉 [https://github.com/manecist](https://github.com/manecist/Ecommerce-Backend-M4)
+👉 https://github.com/manecist/Ecommerce-Backend-M4
 
 ---
 
@@ -57,7 +57,7 @@ Aplicación de consola basada en Programación Orientada a Objetos
 
 Página web desarrollada únicamente en frontend con HTML, CSS, JavaScript y Bootstrap 5, desplegada en GitHub Pages: 
 
-👉 [https://github.com/manecist](https://manecist.github.io/Ecommerce-Frontend-M2/)
+👉 https://manecist.github.io/Ecommerce-Frontend-M2/
 
 ---
 
