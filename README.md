@@ -87,37 +87,86 @@ Esta combinación entre salud y tecnología me permite abordar problemas desde u
 
 ---
 
-## 📂 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-### 🔹 Sistema de carrito en Java
+🔗 Desarrollo progresivo de un sistema **Ecommerce Full Stack**
 
-Aplicación de consola basada en Programación Orientada a Objetos
+### 🏁 Proyecto Final (M7)
+
+🔐 https://github.com/manecist/Ecommerce-Portafolio-Final-M7
+
+💥 Sistema ecommerce completo desarrollado con Spring Boot
+
+✔ Autenticación y autorización con roles (ADMIN / CLIENT / INVITADO)
+✔ CRUD completo de productos
+✔ Carrito de compras funcional
+✔ Gestión de pedidos
+✔ Historial de compras por usuario
+✔ Actualización automática de stock
+✔ Notificaciones en tiempo real en el navegador 🔔
+
+---
+
+### 🔐 Seguridad (M6)
+
+🔗 https://github.com/manecist/Ecommerce-CRUD-SECURITY-M6
+
+✔ Login y registro de usuarios
+✔ Spring Security
+✔ Protección de rutas
+✔ Roles y control de acceso
+
+---
+
+### 🔄 CRUD (M5)
+
+🔗 https://github.com/manecist/Ecommerce-CRUD-M5
+
 ✔ Gestión de productos
-✔ Carrito de compras
-✔ Flujo de compra
-
-👉 https://github.com/manecist/Ecommerce-Backend-M4
+✔ Operaciones CRUD completas
+✔ Conexión con base de datos
 
 ---
 
-### 🔹 Proyecto Frontend
+### ⚙️ Backend (M4)
 
-Página web desarrollada únicamente en frontend con HTML, CSS, JavaScript y Bootstrap 5, desplegada en GitHub Pages: 
+🔗 https://github.com/manecist/Ecommerce-Backend-M4
 
-👉 https://manecist.github.io/Ecommerce-Frontend-M2/
+✔ Lógica de negocio
+✔ Arquitectura en capas
+✔ Integración con base de datos
 
 ---
 
-### 🔹 Ecommerce Full Stack (en desarrollo)
+### 🗄️ Base de Datos (M3)
 
-Proyecto enfocado en integración completa frontend + backend con JAVA
+🔗 https://github.com/manecist/Ecommerce-BD-M3
 
-✔ Backend con Java y Spring Boot
-✔ Conexión a base de datos MySQL
-✔ Lógica de negocio de ecommerce
-✔ Integración completa con frontend
+✔ Modelado de datos
+✔ Relaciones entre entidades
+✔ Scripts SQL
 
-👉 https://github.com/manecist
+---
+
+### 🎨 Frontend (M2)
+
+🔗 https://github.com/manecist/Ecommerce-Frontend-M2
+
+✔ Interfaz de usuario
+✔ Diseño responsive
+✔ Navegación web
+
+---
+
+## 💡 Enfoque actual
+
+Actualmente estoy enfocada en el desarrollo **Full Stack**, integrando:
+
+💻 Desarrollo web
+🔐 Seguridad
+📊 Gestión de datos
+🎯 Estrategia digital
+🎮 Creatividad y tecnología
 
 ---
 
