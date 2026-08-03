@@ -629,11 +629,9 @@ Esta experiencia me ha permitido desarrollar habilidades en:
 
 <br>
 
-<img
-  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-  width="140"
-  alt="Animación tecnológica"
->
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="140" alt="Animación tecnológica">
+</p>
 
 <br>
 
