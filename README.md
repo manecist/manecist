@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora+Full+Stack+Java;Cofundadora+de+Studios+Conari+SpA;Desarrollo+de+Videojuegos;Diseño+y+Producción+Digital;Análisis+de+Datos;Tecnología+%7C+Arte+%7C+Creatividad;Matrona+y+Licenciada+en+Obstetricia&center=true&width=980&height=70&duration=3500&pause=900&color=C9A84C&size=25"
+    src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora+Full+Stack+Java;Cofundadora+de+Studios+Conari+SpA;Desarrollo+de+Videojuegos;Diseño+y+Producción+Digital;Análisis+de+Datos;Tecnología+%7C+Arte+%7C+Creatividad;Matrona+y+Licenciada+en+Obstetricia&center=true&width=980&height=70&duration=3500&pause=900&color=CB8BFF&size=25"
     alt="Presentación de María Inés Cisterna"
   >
 </p>
@@ -15,15 +15,15 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
-[![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1D3557)](https://github.com/manecist)
-[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=1D3557)](https://studiosconari.github.io/)
-[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=ffffff&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
+[![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist)
+[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.github.io/)
+[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
 
 <br>
 
-[![Credencial](https://img.shields.io/badge/Credencial-Full%20Stack%20Java-7EC8FF?style=flat-square&logo=openjdk&logoColor=ffffff&labelColor=1D3557)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
-![Chile](https://img.shields.io/badge/Chile-Concepción-D4AF37?style=flat-square&labelColor=1D3557&color=F8F8F8)
+[![Full Stack Java](https://img.shields.io/badge/Credencial-Full%20Stack%20Java-7EC8FF?style=flat-square&logo=openjdk&logoColor=white&labelColor=1D3557)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
+![Chile](https://img.shields.io/badge/Chile-Concepción-D4AF37?style=flat-square&labelColor=1D3557)
 ![Visitas](https://komarev.com/ghpvc/?username=manecist&label=Visitas&color=CB8BFF&style=flat-square)
 
 </div>
@@ -46,14 +46,14 @@ Dentro del estudio participo en áreas como:
 - Ilustración digital.
 - Diseño visual.
 - Desarrollo web.
-- Documentación.
+- Documentación de producción.
 - Organización de repositorios.
 - Comunicación digital.
 - Gestión administrativa.
 - Preparación de propuestas.
 - Coordinación de proyectos.
 
-También cuento con conocimientos complementarios en modelado 3D, preparación de recursos digitales y herramientas utilizadas en desarrollo de videojuegos.
+También cuento con conocimientos complementarios en modelado 3D y herramientas utilizadas dentro de flujos de desarrollo de videojuegos.
 
 > **Me interesa transformar ideas en proyectos reales combinando tecnología, creatividad, organización y aprendizaje continuo.**
 
@@ -63,11 +63,21 @@ También cuento con conocimientos complementarios en modelado 3D, preparación d
 
 <p align="center">
   <a href="https://studiosconari.github.io/">
-    <img
-      src="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/header-wordmark-night-transparent.png"
-      width="320"
-      alt="Studios Conari"
-    >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/logo-night.png"
+      >
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/logo-day.png"
+      >
+      <img
+        src="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/logo-day.png"
+        width="430"
+        alt="Studios Conari SpA"
+      >
+    </picture>
   </a>
 </p>
 
@@ -81,7 +91,7 @@ También cuento con conocimientos complementarios en modelado 3D, preparación d
 
 Soy **cofundadora, socia y administradora de Studios Conari SpA**, estudio orientado a la creación de videojuegos, software, aplicaciones, contenidos digitales, publicaciones, ilustración, diseño y propiedades intelectuales originales.
 
-El estudio nace como un espacio para desarrollar proyectos donde convergen disciplinas creativas y tecnológicas.
+El estudio nace como un espacio donde convergen disciplinas creativas y tecnológicas para desarrollar proyectos con identidad propia.
 
 Mi participación dentro de Studios Conari incluye:
 
@@ -95,19 +105,19 @@ Mi participación dentro de Studios Conari incluye:
 - Preparación de propuestas.
 - Coordinación de proyectos.
 - Comunicación digital.
-- Apoyo en producción de videojuegos.
+- Producción de videojuegos.
 - Desarrollo de recursos gráficos.
 
-También desarrollé y publiqué el sitio institucional utilizando:
+También desarrollé y publiqué el sitio institucional del estudio utilizando:
 
 `HTML5` · `CSS3` · `JavaScript` · `GitHub Pages`
 
-Actualmente trabajamos en el desarrollo de una **propiedad intelectual original y un proyecto de videojuego independiente**, manteniendo parte de su información, narrativa y materiales de producción de manera privada durante su etapa de desarrollo.
+Actualmente trabajamos en el desarrollo de una **propiedad intelectual original y un proyecto de videojuego independiente**, manteniendo parte de su información, narrativa y materiales de producción de manera privada durante su actual etapa de desarrollo.
 
 <div align="center">
 
-[![Sitio Oficial](https://img.shields.io/badge/Studios%20Conari-Sitio%20Oficial-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=1D3557)](https://studiosconari.github.io/)
-[![GitHub Studios Conari](https://img.shields.io/badge/Studios%20Conari-GitHub-CB8BFF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1D3557)](https://github.com/StudiosConari)
+[![Sitio Oficial](https://img.shields.io/badge/Studios%20Conari-Sitio%20Oficial-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.github.io/)
+[![GitHub](https://img.shields.io/badge/Studios%20Conari-GitHub-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/StudiosConari)
 
 </div>
 
@@ -146,29 +156,27 @@ Estas herramientas forman parte de mi experiencia práctica y de distintos proye
 
 ---
 
-# 💼 Proyecto Full Stack destacado
+# 💼 Proyectos destacados
 
 ## 🛒 Ecommerce Full Stack Java
 
 ### Proyecto Final M7
 
-Aplicación web eCommerce desarrollada como proyecto final de mi formación en **Desarrollo Full Stack Java**.
+Aplicación web eCommerce desarrollada como proyecto final de mi formación en **Desarrollo de Aplicaciones Full Stack Java**.
 
 El proyecto integra frontend, backend, seguridad, base de datos y lógica de negocio dentro de una misma aplicación.
 
-### Funcionalidades
+### Funcionalidades principales
 
 - Registro e inicio de sesión.
-- Autenticación.
-- Autorización.
+- Autenticación y autorización.
 - Roles `ADMIN`, `CLIENT` e `INVITADO`.
-- Gestión de productos.
-- CRUD completo.
-- Categorías y subcategorías.
+- CRUD de productos.
+- Gestión de categorías y subcategorías.
 - Carrito de compras.
 - Gestión de pedidos.
 - Historial de compras.
-- Control de stock.
+- Control y actualización de stock.
 - Panel administrativo.
 - Seguridad de rutas.
 - Integración con MySQL.
@@ -177,19 +185,45 @@ El proyecto integra frontend, backend, seguridad, base de datos y lógica de neg
 
 `Java` · `Spring Boot` · `Spring Security` · `JWT` · `MySQL` · `Thymeleaf` · `HTML5` · `CSS3` · `JavaScript` · `Bootstrap`
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
+    <img
+      src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/HOME.png"
+      width="84%"
+      alt="Página principal del Ecommerce Full Stack"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/PANEL%20GESTION.png"
+    width="47%"
+    alt="Panel de gestión del Ecommerce"
+  >
+  &nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/PRODUCTOS%20EN%20PAG%20CON%20FILTROS.png"
+    width="47%"
+    alt="Página de productos con filtros"
+  >
+</p>
+
 <div align="center">
 
-[![Ver Ecommerce M7](https://img.shields.io/badge/Ver%20Proyecto-Ecommerce%20Full%20Stack-FF8FD8?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1D3557)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
+[![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-Ecommerce%20Full%20Stack-FF8FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
 
 </div>
 
 ---
 
-# 🧱 Evolución Full Stack Java
+## 🧱 Evolución Full Stack Java
 
 El sistema eCommerce fue desarrollado progresivamente durante mi formación.
 
-Cada módulo me permitió trabajar una parte distinta de la aplicación antes de integrarlas en el proyecto final.
+Cada módulo permitió construir una capa diferente del sistema antes de integrarlas en el proyecto final.
 
 | Etapa | Proyecto | Área principal |
 |:---:|---|---|
@@ -198,7 +232,7 @@ Cada módulo me permitió trabajar una parte distinta de la aplicación antes de
 | **M4** | [Ecommerce Backend](https://github.com/manecist/Ecommerce-Backend-M4) | Java · Backend · Arquitectura |
 | **M5** | [Ecommerce CRUD](https://github.com/manecist/Ecommerce-CRUD-M5) | CRUD · Integración |
 | **M6** | [Ecommerce Security](https://github.com/manecist/Ecommerce-CRUD-SECURITY-M6) | Spring Security · Login · Roles |
-| **M7** | [Ecommerce Proyecto Final](https://github.com/manecist/Ecommerce-Portafolio-Final-M7) | Aplicación Full Stack completa |
+| **M7** | [Ecommerce Proyecto Final](https://github.com/manecist/Ecommerce-Portafolio-Final-M7) | Aplicación Full Stack integrada |
 
 ---
 
@@ -217,11 +251,11 @@ Participo principalmente desde áreas relacionadas con:
 - Desarrollo de contenidos.
 - Preparación de assets.
 - Apoyo técnico.
-- Gestión del proyecto.
+- Gestión de proyectos.
 
-También he adquirido experiencia práctica con herramientas y flujos asociados al desarrollo de videojuegos, incluyendo **Godot**, Blender y preparación de recursos gráficos y tridimensionales.
+También he adquirido experiencia práctica con herramientas y flujos asociados al desarrollo de videojuegos, incluyendo Godot, Blender y preparación de recursos gráficos y tridimensionales.
 
-Los proyectos actualmente en desarrollo mantienen parte de su información de forma privada mientras avanzan sus etapas de producción.
+Los proyectos actualmente en desarrollo mantienen parte de su información de manera privada mientras avanzan sus etapas de producción.
 
 ---
 
@@ -229,15 +263,14 @@ Los proyectos actualmente en desarrollo mantienen parte de su información de fo
 
 Actualmente continúo ampliando mi perfil mediante formación en **Análisis de Datos** a través de Google y Coursera.
 
-Durante 2026 he trabajado contenidos relacionados con:
+Durante 2026 he desarrollado contenidos relacionados con:
 
 - Pensamiento analítico.
 - Formulación de preguntas.
 - Identificación de problemas.
 - Identificación de stakeholders.
 - Toma de decisiones basada en datos.
-- Organización de información.
-- Estructuración de datos.
+- Organización y estructuración de información.
 - Indicadores.
 - Excel.
 - SQL.
@@ -257,7 +290,7 @@ También cuento con formación complementaria en **Power BI**.
 
 # 🎨 Diseño y producción digital
 
-Además del desarrollo tecnológico, trabajo en distintas áreas de producción visual.
+Además del desarrollo tecnológico, trabajo en diferentes áreas de producción visual.
 
 Mi experiencia incluye:
 
@@ -286,9 +319,35 @@ Mi experiencia artística se ha desarrollado principalmente de manera autodidact
 
 Gran parte de estas ilustraciones fueron realizadas como **regalos para familiares, amistades y personas cercanas**, utilizando sus gustos y referencias como punto de partida.
 
-El portafolio incluye:
+Estos trabajos corresponden a proyectos personales y ejercicios de desarrollo artístico y **no a encargos comerciales**.
 
-- Dibujos completamente realizados a mano.
+<br>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/manecist/Arte-e-ilustracion-personalizada-tradicional/main/DIBUJOS%20PROPIOS/DIBUJO%20PARA%20ESTEBAN%20PERSONALIZADO%20EN%20SOLO%20LEVELING%20Y%20LINAGE%20CON%20SU%20PJ%20PROPIO%20PRINCIPAL.jpeg"
+    width="46%"
+    alt="Ilustración tradicional personalizada"
+  >
+  &nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/manecist/Arte-e-ilustracion-personalizada-tradicional/main/DIBUJOS%20PROPIOS/IMAGEN%20DIBUJO%20LIBRE%20DE%20TRANSICIOND%20E%20SOLEDAD%20A%20ALEGRIA.jpeg"
+    width="46%"
+    alt="Ilustración tradicional original"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/manecist/Arte-e-ilustracion-personalizada-tradicional/main/DIBUJOS%20PROPIOS/IMAGEN%20DIBUJO%20COMPLETA%20DE%20GENSHIN%20PARA%20KEVIN.jpeg"
+    width="92%"
+    alt="Composición panorámica tradicional"
+  >
+</p>
+
+El portafolio reúne:
+
+- Dibujos realizados completamente a mano.
 - Ilustraciones personalizadas.
 - Composiciones de gran formato.
 - Obras originales.
@@ -302,11 +361,9 @@ El portafolio incluye:
 - Tinta.
 - Técnicas mixtas.
 
-Estos trabajos corresponden a **proyectos personales y ejercicios de desarrollo artístico**, no a encargos comerciales.
-
 <div align="center">
 
-[![Portafolio de Arte](https://img.shields.io/badge/Ver%20Portafolio-Arte%20e%20Ilustración-CB8BFF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1D3557)](https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional)
+[![Portafolio de Arte](https://img.shields.io/badge/VER%20PORTAFOLIO-Arte%20e%20Ilustración-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional)
 
 </div>
 
@@ -330,13 +387,28 @@ He trabajado con:
 
 También he realizado pruebas de **impresión 3D en PLA**, creando piezas para uso personal y otras como regalos para familiares y amigos.
 
-Estas piezas corresponden a ejercicios y proyectos personales.
-
+Estas piezas corresponden a ejercicios y proyectos personales.  
 **No forman parte de una actividad comercial ni fueron desarrolladas para venta.**
+
+<br>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/manecist/Modelos-3D/main/Modelados%203d%20para%20PLA/Pokemon%20stand/IMG-20220331-WA0002.jpeg"
+    width="46%"
+    alt="Proyecto personal de impresión 3D"
+  >
+  &nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/manecist/Modelos-3D/main/Modelados%203d%20para%20PLA/Pokemon%20stand/IMG-20220331-WA0005.jpeg"
+    width="46%"
+    alt="Pieza impresa y terminada en PLA"
+  >
+</p>
 
 <div align="center">
 
-[![Modelos 3D](https://img.shields.io/badge/Ver%20Portafolio-Modelado%203D-7EC8FF?style=for-the-badge&logo=blender&logoColor=ffffff&labelColor=1D3557)](https://github.com/manecist/Modelos-3D)
+[![Modelos 3D](https://img.shields.io/badge/VER%20PORTAFOLIO-Modelado%203D-7EC8FF?style=for-the-badge&logo=blender&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Modelos-3D)
 
 </div>
 
@@ -344,7 +416,7 @@ Estas piezas corresponden a ejercicios y proyectos personales.
 
 # 📈 Marketing y presencia digital
 
-Mi perfil tecnológico también se complementa con formación en marketing y estrategia digital.
+Mi perfil tecnológico se complementa con formación en marketing y estrategia digital.
 
 He desarrollado conocimientos en:
 
@@ -360,16 +432,7 @@ He desarrollado conocimientos en:
 - Comunicación digital.
 - Crecimiento de negocios digitales.
 
-Esta formación me permite observar los proyectos desde una perspectiva más amplia, considerando:
-
-- Público objetivo.
-- Propuesta de valor.
-- Posicionamiento.
-- Identidad.
-- Comunicación.
-- Presentación del producto.
-- Comunidad.
-- Presencia digital.
+Esta formación me permite observar los proyectos desde una perspectiva más amplia, considerando tanto su desarrollo como su identidad, presentación y comunicación.
 
 ---
 
@@ -380,7 +443,7 @@ Esta formación me permite observar los proyectos desde una perspectiva más amp
 **480 horas**
 
 SENCE · Talento Digital para Chile · Sustantiva SpA  
-2025 – 2026
+**2025 – 2026**
 
 Formación en:
 
@@ -405,7 +468,7 @@ Formación en:
 
 <div align="center">
 
-[![Credencial Full Stack Java](https://img.shields.io/badge/Ver%20Credencial-Full%20Stack%20Java-D4AF37?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=1D3557)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
+[![Credencial](https://img.shields.io/badge/VER%20CREDENCIAL-Full%20Stack%20Java-D4AF37?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1D3557)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
 
 </div>
 
@@ -459,7 +522,7 @@ El canal lo comparto junto a mi esposo.
 
 <div align="center">
 
-[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=ffffff&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
+[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
 
 **Streaming actualmente en pausa temporal**
 
@@ -530,13 +593,13 @@ Esta experiencia sigue formando parte de mi manera de trabajar y me aporta:
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=manecist&show_icons=true&hide_border=true&bg_color=00000000&title_color=CB8BFF&text_color=6B7280&icon_color=D4AF37"
+  src="https://github-readme-stats.vercel.app/api?username=manecist&show_icons=true&hide_border=true&bg_color=00000000&title_color=CB8BFF&text_color=7EC8FF&icon_color=FF8FD8"
   height="165"
   alt="Estadísticas de GitHub"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manecist&layout=compact&hide_border=true&bg_color=00000000&title_color=7EC8FF&text_color=6B7280"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manecist&layout=compact&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=7EC8FF"
   height="165"
   alt="Lenguajes utilizados"
 />
@@ -553,11 +616,11 @@ Esta experiencia sigue formando parte de mi manera de trabajar y me aporta:
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
-[![Email](https://img.shields.io/badge/Email-studiosconari%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=1D3557)](mailto:studiosconari@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1D3557)](https://github.com/manecist)
-[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=1D3557)](https://studiosconari.github.io/)
-[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-7EC8FF?style=for-the-badge&logo=twitch&logoColor=ffffff&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
+[![Email](https://img.shields.io/badge/Email-studiosconari%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1D3557)](mailto:studiosconari@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist)
+[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.github.io/)
+[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-7EC8FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
 
 </div>
 
