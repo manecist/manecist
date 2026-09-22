@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora+Full+Stack+Java;Cofundadora+de+Studios+Conari+SpA;Desarrollo+de+Videojuegos;Diseño+y+Producción+Digital;Análisis+de+Datos;Tecnología+%7C+Arte+%7C+Creatividad;Matrona+y+Licenciada+en+Obstetricia&center=true&width=900&height=70&duration=3500&pause=900&color=C9A84C&size=25"
+    src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora+Full+Stack+Java;Cofundadora+de+Studios+Conari+SpA;Desarrollo+de+Videojuegos;Diseño+y+Producción+Digital;Análisis+de+Datos;Tecnología+%7C+Arte+%7C+Creatividad;Matrona+y+Licenciada+en+Obstetricia&center=true&width=980&height=70&duration=3500&pause=900&color=C9A84C&size=25"
     alt="Presentación de María Inés Cisterna"
   >
 </p>
@@ -15,16 +15,16 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-María_Cisterna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-cisterna-e/)
-[![GitHub](https://img.shields.io/badge/GitHub-manecist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist)
-[![Studios Conari](https://img.shields.io/badge/Studios_Conari-Web-C9A84C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studiosconari.github.io/)
-[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arianesdcoen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
+[![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1D3557)](https://github.com/manecist)
+[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=1D3557)](https://studiosconari.github.io/)
+[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=ffffff&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
 
 <br>
 
-[![Full Stack Java](https://img.shields.io/badge/Credencial-Full_Stack_Java-0B1F3A?style=flat-square&logo=openjdk&logoColor=white)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
-![Chile](https://img.shields.io/badge/Chile-Concepción-C9A84C?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=manecist&label=Visitas&color=C9A84C&style=flat-square)
+[![Credencial](https://img.shields.io/badge/Credencial-Full%20Stack%20Java-7EC8FF?style=flat-square&logo=openjdk&logoColor=ffffff&labelColor=1D3557)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
+![Chile](https://img.shields.io/badge/Chile-Concepción-D4AF37?style=flat-square&labelColor=1D3557&color=F8F8F8)
+![Visitas](https://komarev.com/ghpvc/?username=manecist&label=Visitas&color=CB8BFF&style=flat-square)
 
 </div>
 
@@ -106,9 +106,8 @@ Actualmente trabajamos en el desarrollo de una **propiedad intelectual original 
 
 <div align="center">
 
-[![Sitio Oficial](https://img.shields.io/badge/STUDIOS_CONARI-SITIO_OFICIAL-C9A84C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studiosconari.github.io/)
-
-[![GitHub Studios Conari](https://img.shields.io/badge/STUDIOS_CONARI-GITHUB-0B1F3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudiosConari)
+[![Sitio Oficial](https://img.shields.io/badge/Studios%20Conari-Sitio%20Oficial-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=1D3557)](https://studiosconari.github.io/)
+[![GitHub Studios Conari](https://img.shields.io/badge/Studios%20Conari-GitHub-CB8BFF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1D3557)](https://github.com/StudiosConari)
 
 </div>
 
@@ -180,7 +179,7 @@ El proyecto integra frontend, backend, seguridad, base de datos y lógica de neg
 
 <div align="center">
 
-[![Ver Ecommerce M7](https://img.shields.io/badge/VER_PROYECTO-Ecommerce_Full_Stack-C9A84C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
+[![Ver Ecommerce M7](https://img.shields.io/badge/Ver%20Proyecto-Ecommerce%20Full%20Stack-FF8FD8?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1D3557)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
 
 </div>
 
@@ -307,7 +306,7 @@ Estos trabajos corresponden a **proyectos personales y ejercicios de desarrollo 
 
 <div align="center">
 
-[![Portafolio de Arte](https://img.shields.io/badge/VER_PORTAFOLIO-Arte_e_Ilustración-C9A84C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional)
+[![Portafolio de Arte](https://img.shields.io/badge/Ver%20Portafolio-Arte%20e%20Ilustración-CB8BFF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1D3557)](https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional)
 
 </div>
 
@@ -337,7 +336,7 @@ Estas piezas corresponden a ejercicios y proyectos personales.
 
 <div align="center">
 
-[![Modelos 3D](https://img.shields.io/badge/VER_PORTAFOLIO-Modelado_3D-C9A84C?style=for-the-badge&logo=blender&logoColor=white)](https://github.com/manecist/Modelos-3D)
+[![Modelos 3D](https://img.shields.io/badge/Ver%20Portafolio-Modelado%203D-7EC8FF?style=for-the-badge&logo=blender&logoColor=ffffff&labelColor=1D3557)](https://github.com/manecist/Modelos-3D)
 
 </div>
 
@@ -406,7 +405,7 @@ Formación en:
 
 <div align="center">
 
-[![Credencial Full Stack Java](https://img.shields.io/badge/VER_CREDENCIAL-Full_Stack_Java-C9A84C?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
+[![Credencial Full Stack Java](https://img.shields.io/badge/Ver%20Credencial-Full%20Stack%20Java-D4AF37?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=1D3557)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
 
 </div>
 
@@ -460,7 +459,7 @@ El canal lo comparto junto a mi esposo.
 
 <div align="center">
 
-[![Twitch](https://img.shields.io/badge/TWITCH-ArianesDCoen-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arianesdcoen)
+[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=ffffff&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
 
 **Streaming actualmente en pausa temporal**
 
@@ -531,13 +530,13 @@ Esta experiencia sigue formando parte de mi manera de trabajar y me aporta:
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=manecist&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A84C&text_color=8B949E&icon_color=C9A84C"
+  src="https://github-readme-stats.vercel.app/api?username=manecist&show_icons=true&hide_border=true&bg_color=00000000&title_color=CB8BFF&text_color=6B7280&icon_color=D4AF37"
   height="165"
   alt="Estadísticas de GitHub"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manecist&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A84C&text_color=8B949E"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manecist&layout=compact&hide_border=true&bg_color=00000000&title_color=7EC8FF&text_color=6B7280"
   height="165"
   alt="Lenguajes utilizados"
 />
@@ -554,15 +553,11 @@ Esta experiencia sigue formando parte de mi manera de trabajar y me aporta:
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-María_Cisterna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-cisterna-e/)
-
-[![Email](https://img.shields.io/badge/EMAIL-studiosconari%40gmail.com-C9A84C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:studiosconari@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-manecist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist)
-
-[![Studios Conari](https://img.shields.io/badge/STUDIOS_CONARI-WEB-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studiosconari.github.io/)
-
-[![Twitch](https://img.shields.io/badge/TWITCH-ArianesDCoen-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arianesdcoen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
+[![Email](https://img.shields.io/badge/Email-studiosconari%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=1D3557)](mailto:studiosconari@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1D3557)](https://github.com/manecist)
+[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=1D3557)](https://studiosconari.github.io/)
+[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-7EC8FF?style=for-the-badge&logo=twitch&logoColor=ffffff&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
 
 </div>
 
@@ -578,7 +573,7 @@ Esta experiencia sigue formando parte de mi manera de trabajar y me aporta:
 
 **🎮 Cofundadora y administradora de Studios Conari SpA**
 
-**🎮 Desarrollo de videojuegos · 🎨 Producción Digital · 📊 Data Analysis**
+**🎮 Desarrollo de videojuegos · 🎨 Producción digital · 📊 Análisis de datos**
 
 **🩺 Matrona titulada**
 
