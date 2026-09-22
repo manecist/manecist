@@ -13,7 +13,7 @@
 
 #### 🎮 Desarrollo de videojuegos · 🎨 Producción digital · 📊 Análisis de datos
 
-#### 🩺 Matrona titulada y Licenciada en Obstetricia
+#### 🩺 Matrona titulada · Licenciada en Obstetricia y Matronería
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-[![Credencial](https://img.shields.io/badge/Credencial-Full%20Stack%20Java-7EC8FF?style=flat-square&logo=openjdk&logoColor=white&labelColor=1D3557)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
+[![Full Stack Java](https://img.shields.io/badge/Credencial-Full%20Stack%20Java-7EC8FF?style=flat-square&logo=openjdk&logoColor=white&labelColor=1D3557)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
 ![Chile](https://img.shields.io/badge/Chile-Concepción-D4AF37?style=flat-square&labelColor=1D3557)
 ![Visitas](https://komarev.com/ghpvc/?username=manecist&label=Visitas&color=CB8BFF&style=flat-square)
 
@@ -40,7 +40,7 @@ Mi trayectoria profesional comenzó en el área de la salud y posteriormente se 
 
 Actualmente concentro gran parte de mi trabajo en **Studios Conari SpA**, estudio creativo chileno dedicado al desarrollo de videojuegos, software, contenidos digitales, ilustración y propiedad intelectual.
 
-Dentro del estudio participo en áreas como:
+Dentro del estudio participo en:
 
 - Desarrollo y planificación de proyectos digitales.
 - Dirección de arte.
@@ -63,23 +63,27 @@ También cuento con conocimientos complementarios en modelado 3D y herramientas 
 
 # 🎮 Studios Conari SpA
 
-<p align="center">
-  <a href="https://studiosconari.github.io/">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/header-wordmark-night-transparent.png"
-      >
-      <img
-        src="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/header-wordmark-transparent.png"
-        width="430"
-        alt="Studios Conari SpA"
-      >
-    </picture>
-  </a>
-</p>
-
 <div align="center">
+
+<a href="https://studiosconari.github.io/">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/header-wordmark-night-transparent.png"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/header-wordmark-transparent.png"
+    >
+    <img
+      src="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/header-wordmark-transparent.png"
+      width="520"
+      alt="Studios Conari"
+    >
+  </picture>
+</a>
+
+<br>
 
 ### Estudio creativo chileno
 
@@ -89,9 +93,11 @@ También cuento con conocimientos complementarios en modelado 3D y herramientas 
 
 Soy **cofundadora, socia y administradora de Studios Conari SpA**, estudio orientado a la creación de videojuegos, software, aplicaciones, contenidos digitales, publicaciones, ilustración, diseño y propiedades intelectuales originales.
 
-Mi participación dentro de Studios Conari incluye:
+Studios Conari nace como un espacio donde convergen distintas disciplinas creativas y tecnológicas para desarrollar proyectos con identidad propia.
 
-- Gestión y administración del estudio.
+Mi participación dentro del estudio incluye:
+
+- Gestión y administración.
 - Dirección de arte.
 - Ilustración digital.
 - Producción editorial.
@@ -104,11 +110,11 @@ Mi participación dentro de Studios Conari incluye:
 - Producción de videojuegos.
 - Desarrollo de recursos gráficos.
 
-También desarrollé y publiqué el sitio institucional del estudio utilizando:
+También desarrollé y publiqué el sitio institucional mediante:
 
 `HTML5` · `CSS3` · `JavaScript` · `GitHub Pages`
 
-Actualmente trabajamos en el desarrollo de una **propiedad intelectual original y un proyecto de videojuego independiente**, manteniendo parte de su información y materiales de producción de manera privada durante su etapa de desarrollo.
+Actualmente trabajamos en una **propiedad intelectual original y un proyecto de videojuego independiente**, manteniendo parte de su información, narrativa y materiales de producción de manera privada durante su etapa actual de desarrollo.
 
 <div align="center">
 
@@ -126,7 +132,7 @@ Actualmente trabajamos en el desarrollo de una **propiedad intelectual original 
 <img
   src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,git,github,vscode,idea&perline=6"
   alt="Tecnologías de desarrollo"
-/>
+>
 
 </div>
 
@@ -148,7 +154,7 @@ También he trabajado con:
 
 `Blender` · `Godot` · `AccuRig` · `3D Builder` · `Clip Studio Paint` · `Adobe Photoshop`
 
-Estas herramientas forman parte de mi experiencia práctica y de distintos proyectos creativos, pero no las presento como mi especialización principal.
+Estas herramientas forman parte de mi experiencia práctica y de distintos proyectos creativos, pero no constituyen mi especialización principal.
 
 ---
 
@@ -157,6 +163,8 @@ Estas herramientas forman parte de mi experiencia práctica y de distintos proye
 ## 🛒 Ecommerce Full Stack Java
 
 Aplicación web eCommerce desarrollada como proyecto final de mi formación en **Desarrollo de Aplicaciones Full Stack Java**.
+
+El sistema integra frontend, backend, seguridad, base de datos y lógica de negocio dentro de una misma aplicación.
 
 ### Funcionalidades principales
 
@@ -179,30 +187,39 @@ Aplicación web eCommerce desarrollada como proyecto final de mi formación en *
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
-    <img
-      src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/HOME.png"
-      width="88%"
-      alt="Página principal del Ecommerce Full Stack"
-    >
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/PANEL%20GESTION.png"
-    width="44%"
-    alt="Panel de gestión del Ecommerce"
-  >
-  <img
-    src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/PRODUCTOS%20EN%20PAG%20CON%20FILTROS.png"
-    width="44%"
-    alt="Productos con filtros del Ecommerce"
-  >
-</p>
-
 <div align="center">
+
+### ✦ Vista principal del proyecto
+
+<a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
+  <img
+    src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/HOME.png"
+    width="90%"
+    alt="Vista principal Ecommerce Full Stack"
+  >
+</a>
+
+<br><br>
+
+### ✦ Gestión del sistema
+
+<img
+  src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/PANEL%20GESTION.png"
+  width="82%"
+  alt="Panel de gestión Ecommerce"
+>
+
+<br><br>
+
+### ✦ Catálogo de productos
+
+<img
+  src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/PRODUCTOS%20EN%20PAG%20CON%20FILTROS.png"
+  width="82%"
+  alt="Catálogo del Ecommerce"
+>
+
+<br><br>
 
 [![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-Ecommerce%20Full%20Stack-FF8FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
 
@@ -212,7 +229,9 @@ Aplicación web eCommerce desarrollada como proyecto final de mi formación en *
 
 # 🧱 Evolución Full Stack Java
 
-| Etapa | Proyecto | Área principal |
+El proyecto eCommerce se desarrolló progresivamente durante mi formación, construyendo las distintas capas de una aplicación antes de integrarlas en el proyecto final.
+
+| Etapa | Proyecto | Desarrollo |
 |:---:|---|---|
 | **M2** | [Ecommerce Frontend](https://github.com/manecist/Ecommerce-Frontend-M2) | HTML · CSS · JavaScript · Responsive |
 | **M3** | [Ecommerce Base de Datos](https://github.com/manecist/Ecommerce-BD-M3) | SQL · Modelado relacional |
@@ -227,7 +246,7 @@ Aplicación web eCommerce desarrollada como proyecto final de mi formación en *
 
 El desarrollo de videojuegos forma parte activa de mi trabajo dentro de **Studios Conari SpA**.
 
-Participo principalmente desde áreas relacionadas con:
+Participo principalmente en:
 
 - Producción.
 - Dirección de arte.
@@ -240,9 +259,9 @@ Participo principalmente desde áreas relacionadas con:
 - Apoyo técnico.
 - Gestión de proyectos.
 
-También he adquirido experiencia práctica con herramientas y flujos asociados al desarrollo de videojuegos, incluyendo Godot, Blender y preparación de recursos gráficos y tridimensionales.
+También he adquirido experiencia práctica con herramientas asociadas al desarrollo de videojuegos, incluyendo **Godot, Blender y distintos flujos de preparación de recursos gráficos y tridimensionales**.
 
-Los proyectos actualmente en desarrollo mantienen parte de su información de manera privada mientras avanzan sus etapas de producción.
+Los proyectos actualmente en desarrollo mantienen parte de su información privada mientras avanzan sus etapas de producción.
 
 ---
 
@@ -250,7 +269,7 @@ Los proyectos actualmente en desarrollo mantienen parte de su información de ma
 
 Actualmente continúo ampliando mi perfil mediante formación en **Análisis de Datos** a través de Google y Coursera.
 
-He desarrollado contenidos relacionados con:
+He trabajado contenidos relacionados con:
 
 - Pensamiento analítico.
 - Formulación de preguntas.
@@ -263,52 +282,176 @@ He desarrollado contenidos relacionados con:
 - SQL.
 - Comunicación de resultados.
 
+### Formación completada dentro del programa
+
+✅ Introducing Data Analytics and Analytical Thinking  
+✅ Ask Effective Questions  
+✅ Make Data-Driven Decisions  
+✅ Always Remember the Stakeholder  
+✅ Foundations: Data, Data, Everywhere  
+
 También cuento con formación complementaria en **Power BI**.
+
+---
+
+# 🎨 Diseño y producción digital
+
+Además del desarrollo tecnológico, trabajo en distintas áreas de producción visual.
+
+Mi experiencia incluye:
+
+- Ilustración digital.
+- Line art.
+- Diseño de personajes.
+- Color.
+- Composición.
+- Dirección de arte.
+- Identidad visual.
+- Diseño editorial.
+- Diagramación.
+- Tratamiento de imagen.
+- Preparación de documentos digitales.
+- Recursos gráficos para proyectos interactivos.
+
+### Herramientas
+
+`Clip Studio Paint` · `Adobe Photoshop` · `Adobe Acrobat`
 
 ---
 
 # 🎨 Arte e ilustración tradicional
 
-Mi experiencia artística se ha desarrollado principalmente de manera autodidacta mediante práctica, experimentación y creación de obras personales.
+Mi experiencia artística se ha desarrollado principalmente de manera autodidacta, mediante práctica, experimentación y creación de obras personales.
 
-Gran parte de estas ilustraciones fueron realizadas como **regalos para familiares, amistades y personas cercanas**, utilizando sus gustos y referencias como punto de partida.
+Gran parte de estas ilustraciones fueron realizadas como **regalos para familiares, amistades y personas cercanas**, tomando sus gustos y referencias como punto de partida.
 
 Estos trabajos corresponden a proyectos personales y ejercicios de desarrollo artístico, **no a encargos comerciales**.
 
+<br>
+
 <div align="center">
+
+### ✦ Selección de trabajos
+
+<br>
+
+#### Ilustración personalizada
+
+<img
+  src="https://raw.githubusercontent.com/manecist/Arte-e-ilustracion-personalizada-tradicional/main/DIBUJOS%20PROPIOS/DIBUJO%20PARA%20ESTEBAN%20PERSONALIZADO%20EN%20SOLO%20LEVELING%20Y%20LINAGE%20CON%20SU%20PJ%20PROPIO%20PRINCIPAL.jpeg"
+  width="65%"
+  alt="Ilustración tradicional personalizada"
+>
+
+<br><br>
+
+#### Composición panorámica
+
+<img
+  src="https://raw.githubusercontent.com/manecist/Arte-e-ilustracion-personalizada-tradicional/main/DIBUJOS%20PROPIOS/IMAGEN%20DIBUJO%20COMPLETA%20DE%20GENSHIN%20PARA%20KEVIN.jpeg"
+  width="90%"
+  alt="Ilustración panorámica tradicional"
+>
+
+<br><br>
+
+#### Obra original
+
+<img
+  src="https://raw.githubusercontent.com/manecist/Arte-e-ilustracion-personalizada-tradicional/main/DIBUJOS%20PROPIOS/IMAGEN%20DIBUJO%20LIBRE%20DE%20TRANSICIOND%20E%20SOLEDAD%20A%20ALEGRIA.jpeg"
+  width="65%"
+  alt="Obra tradicional original"
+>
+
+<br><br>
 
 [![Portafolio de Arte](https://img.shields.io/badge/VER%20PORTAFOLIO-Arte%20e%20Ilustración-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional)
 
 </div>
 
+<br>
+
+He trabajado con técnicas y materiales como:
+
+`Acuarela` · `Témpera` · `Óleo` · `Lápices acuarelables` · `Cera pastel` · `Tinta` · `Plumones de alcohol` · `Técnicas mixtas`
+
 ---
 
 # 🧩 Modelado e impresión 3D
 
-También he realizado trabajos de modelado y preparación de piezas tridimensionales como parte de mi aprendizaje y experimentación personal.
+También he experimentado con modelado, modificación de archivos y producción mediante impresión 3D como parte de mi aprendizaje personal.
 
-He trabajado con:
+He trabajado en:
 
-- Modelado básico en Blender.
-- Adaptación de modelos.
+- Modelado y adaptación básica de piezas.
+- Modificación de modelos.
 - Reparación de mallas.
-- Texturizado.
-- Mapeado UV.
-- Rigging mediante herramientas automáticas.
 - Preparación de archivos STL.
-- Exportación FBX y GLB.
-- Preparación de recursos para proyectos digitales.
+- Impresión mediante filamento PLA.
+- Retiro de soportes.
+- Corrección de imperfecciones.
+- Aplicación de filler.
+- Lijado y pulido.
+- Pintura manual.
+- Ensamblaje y terminación.
 
-También he realizado pruebas de **impresión 3D en PLA**, creando piezas para uso personal y otras como regalos para familiares y amigos.
+He utilizado herramientas como **Blender, 3D Builder y AccuRig** dentro de distintos procesos de aprendizaje y experimentación.
 
-Estas piezas corresponden a ejercicios y proyectos personales.  
-**No forman parte de una actividad comercial ni fueron desarrolladas para venta.**
+Las piezas impresas fueron realizadas para **uso personal o como regalos para familiares y amigos**.
+
+**No corresponden a productos comerciales ni fueron desarrolladas para venta.**
+
+<br>
 
 <div align="center">
+
+### ✦ Ejemplo de proyecto realizado
+
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/manecist/Modelos-3D/main/Modelados%203d%20para%20PLA/Pokemon%20stand/IMG-20220331-WA0002.jpeg"
+  width="62%"
+  alt="Proyecto personal de impresión 3D"
+>
+
+<br><br>
+
+### ✦ Pieza terminada
+
+<img
+  src="https://raw.githubusercontent.com/manecist/Modelos-3D/main/Modelados%203d%20para%20PLA/Pokemon%20stand/IMG-20220331-WA0005.jpeg"
+  width="62%"
+  alt="Pieza impresa y terminada en PLA"
+>
+
+<br><br>
 
 [![Modelos 3D](https://img.shields.io/badge/VER%20PORTAFOLIO-Modelado%203D-7EC8FF?style=for-the-badge&logo=blender&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Modelos-3D)
 
 </div>
+
+---
+
+# 📈 Marketing y presencia digital
+
+Mi perfil tecnológico se complementa con formación en marketing y estrategia digital.
+
+Cuento con conocimientos en:
+
+- Marketing digital.
+- Gestión estratégica.
+- Growth Hacking.
+- Analítica web.
+- Construcción de marca.
+- Marca personal.
+- Networking.
+- WordPress.
+- Estrategia de contenidos.
+- Comunicación digital.
+- Crecimiento de negocios digitales.
+
+Esto me permite analizar un proyecto no solo desde su construcción técnica, sino también desde su identidad, comunicación, público y presentación.
 
 ---
 
@@ -349,21 +492,39 @@ Formación en:
 
 ---
 
-# 🩺 Formación profesional en salud
+## 📚 Formación complementaria
+
+También cuento con formación en:
+
+- Diseño y Programación Web.
+- Programación con JavaScript.
+- Diseño Web con HTML5 y CSS.
+- WordPress.
+- Marketing Digital.
+- Growth Hacking.
+- Analítica Web.
+- Construcción de Marca.
+- Crecimiento Digital de Negocios.
+- Ciberseguridad.
+- Power BI.
+- Análisis de Datos.
+
+---
+
+# 🩺 Matrona · Formación y experiencia profesional en salud
 
 Soy **Matrona titulada por la Universidad San Sebastián**, **Licenciada en Obstetricia y Matronería** y **Bachiller en Salud Sexual y Reproductiva**.
 
 Ejercí profesionalmente durante aproximadamente cinco años en atención clínica, atención primaria y salud pública.
 
-Mi experiencia incluye:
+Mi experiencia profesional incluye:
 
-- Atención primaria.
+- Atención primaria de salud.
+- Ginecología y obstetricia.
 - Salud sexual y reproductiva.
-- Ginecología.
-- Obstetricia.
-- Control prenatal.
-- Climaterio.
+- Control prenatal y puerperio.
 - Planificación familiar.
+- Climaterio.
 - Programas GES.
 - Prevención de cáncer cervicouterino.
 - Lactancia materna.
@@ -372,9 +533,37 @@ Mi experiencia incluye:
 - Urgencias obstétricas.
 - Educación sanitaria.
 - Coordinación interdisciplinaria.
-- Gestión de información clínica.
+- Gestión y trazabilidad de información clínica.
 
-Durante mi experiencia en atención primaria desarrollé herramientas de seguimiento en **Excel** para resultados de PAP y mamografía, reemplazando registros manuales y mejorando la trazabilidad de la información.
+Durante mi experiencia en atención primaria desarrollé herramientas de seguimiento mediante **Excel para resultados de PAP y mamografía**, reemplazando registros manuales y facilitando el acceso y trazabilidad de la información.
+
+Esta experiencia también aporta a mi perfil tecnológico:
+
+- Pensamiento estructurado.
+- Gestión rigurosa de información.
+- Responsabilidad profesional.
+- Trabajo bajo presión.
+- Resolución de problemas.
+- Organización.
+- Comunicación con usuarios.
+- Coordinación interdisciplinaria.
+- Seguimiento de procesos.
+
+---
+
+# 🌟 Perfil multidisciplinario
+
+| Área | Experiencia |
+|---|---|
+| 💻 **Desarrollo de software** | Java · Spring Boot · frontend · backend · seguridad |
+| 🎮 **Studios Conari & videojuegos** | Producción · gestión · arte · proyectos digitales |
+| 📊 **Análisis de datos** | Excel · SQL · indicadores · organización · trazabilidad |
+| 🎨 **Diseño y arte** | Ilustración digital · ilustración tradicional · producción editorial |
+| 🌐 **Desarrollo web** | HTML5 · CSS3 · JavaScript · GitHub Pages · WordPress |
+| 📈 **Marketing** | Estrategia digital · branding · contenidos · analítica web |
+| 🧩 **3D** | Conocimientos de modelado · preparación de archivos · impresión PLA |
+| 📋 **Gestión** | Organización · documentación · seguimiento · coordinación |
+| 🩺 **Matronería** | Matrona titulada · Licenciada en Obstetricia y Matronería · experiencia clínica y APS |
 
 ---
 
@@ -387,10 +576,31 @@ Actualmente estoy enfocada en:
 - 💻 Fortalecimiento de mi perfil como **Desarrolladora Full Stack Java**.
 - 🎨 Producción visual e ilustración para proyectos digitales.
 - 📊 Continuación de mi formación en **Análisis de Datos**.
+- 📈 Profundización progresiva en **Power BI**.
 - 🌐 Desarrollo y mantenimiento web.
 - 📚 Producción editorial y documentación.
 - 📣 Identidad y comunicación de Studios Conari.
 - 🎥 Preparación de una futura reactivación del streaming asociado al estudio.
+
+---
+
+# 🎥 Streaming & Content Creation
+
+El streaming y la creación de contenido forman parte de mi experiencia dentro del mundo de los videojuegos y las comunidades digitales.
+
+Actualmente las transmisiones se encuentran en **pausa temporal**, mientras concentramos nuestro trabajo en el desarrollo y consolidación de **Studios Conari SpA**.
+
+La intención es retomar progresivamente esta área como parte de la presencia digital del estudio.
+
+El canal lo comparto junto a mi esposo.
+
+<div align="center">
+
+[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
+
+**Streaming actualmente en pausa temporal**
+
+</div>
 
 ---
 
@@ -403,10 +613,14 @@ Actualmente estoy enfocada en:
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
+
 [![Email](https://img.shields.io/badge/Email-studiosconari%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1D3557)](mailto:studiosconari@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist)
-[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.github.io/)
-[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-7EC8FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
+
+[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.github.io/)
+
+[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
 
 </div>
 
@@ -424,7 +638,7 @@ Actualmente estoy enfocada en:
 
 **🎮 Desarrollo de videojuegos · 🎨 Producción digital · 📊 Análisis de datos**
 
-**🩺 Matrona titulada y Licenciada en Obstetricia**
+**🩺 Matrona titulada · Licenciada en Obstetricia y Matronería**
 
 <br>
 
