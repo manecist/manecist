@@ -1,299 +1,353 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora+Full+Stack+Java;Matrona+y+Licenciada+en+Obstetricia;Especializándome+en+Análisis+de+Datos;Cofundadora+de+Studios+Conari;Marketing+Digital+%7C+Arte+%7C+Tecnología;Videojuegos+%7C+Streaming+%7C+Creatividad&center=true&width=850&height=70&duration=3800&pause=900&color=FF69B4&size=25"
-    alt="Presentación animada de María Cisterna"
+    src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora+Full+Stack+Java;Cofundadora+de+Studios+Conari+SpA;Desarrollo+de+Videojuegos;Diseño+y+Producción+Digital;Análisis+de+Datos;Tecnología+%7C+Arte+%7C+Creatividad;Matrona+y+Licenciada+en+Obstetricia&center=true&width=900&height=70&duration=3500&pause=900&color=C9A84C&size=25"
+    alt="Presentación de María Inés Cisterna"
   >
 </p>
 
-<br>
-
 <div align="center">
 
-# 👋 Hola, soy María Inés Cisterna
+# ✦ María Inés Cisterna Escobar ✦
 
-### 💻 Desarrolladora Full Stack Java | 🩺 Matrona
+### 💻 Full Stack Java Developer · 🎮 Cofundadora de Studios Conari SpA
 
-#### 📊 Análisis de datos • 📈 Marketing digital • 🎮 Videojuegos • 🎨 Arte y tecnología
+#### 🎮 Desarrollo de videojuegos · 🎨 Producción digital · 📊 Análisis de datos
 
 <br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María_Cisterna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-cisterna-e/)
 [![GitHub](https://img.shields.io/badge/GitHub-manecist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-María_Cisterna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-cisterna-e)
-[![Twitch](https://img.shields.io/badge/Twitch-ariacist-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arianesdcoen)
-[![Credencial](https://img.shields.io/badge/Credencial-Full_Stack_Java-6F1D8C?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
-
-</div>
+[![Studios Conari](https://img.shields.io/badge/Studios_Conari-Web-C9A84C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studiosconari.github.io/)
+[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arianesdcoen)
 
 <br>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=manecist&label=Visitas%20al%20perfil&color=ff4da6&style=for-the-badge"
-    alt="Visitas al perfil"
-  >
-</p>
-
----
-
-## 🌸 Sobre mí
-
-Soy **Matrona titulada, Licenciada en Obstetricia y Matronería y Desarrolladora Full Stack Java certificada**, con experiencia profesional en atención clínica, salud pública, coordinación de programas, educación, gestión de información y optimización de procesos.
-
-Mi trayectoria comenzó en el área de la salud, donde trabajé durante más de cinco años en atención primaria, hospitales, programas de salud sexual y reproductiva, campañas de prevención, seguimiento de pacientes y gestión clínica.
-
-Posteriormente amplié mi perfil hacia la tecnología, completando una formación intensiva en desarrollo de aplicaciones Full Stack Java y diversos diplomados y cursos relacionados con programación web, marketing digital, analítica web, construcción de marca y crecimiento de negocios digitales.
-
-Actualmente continúo especializándome en **análisis de datos mediante cursos autorizados por Google y ofrecidos a través de Coursera**, complementando mi experiencia previa en gestión de registros, seguimiento de indicadores y organización de información.
-
-También soy **cofundadora y administradora de Studios Conari SpA**, estudio chileno de videojuegos y contenidos digitales creado junto a mi esposo. Actualmente trabajamos en nuestro primer prototipo de videojuego independiente.
-
-Mi perfil integra:
-
-- 💻 Desarrollo de software.
-- 🩺 Salud y gestión clínica.
-- 📊 Análisis y organización de datos.
-- 📈 Marketing y estrategia digital.
-- 🎮 Desarrollo de videojuegos.
-- 🎨 Ilustración tradicional y digital.
-- 🧩 Modelado e impresión 3D.
-- 🎥 Streaming y creación de contenido.
-- 📚 Aprendizaje autónomo y formación continua.
-
-> Mi fortaleza está en combinar pensamiento lógico, experiencia humana, gestión, creatividad y capacidad técnica para convertir ideas en proyectos concretos.
-
----
-
-## 🏅 Desarrolladora Full Stack Java certificada
-
-En 2026 completé y aprobé el programa:
-
-### Desarrollo de Aplicaciones Full Stack Java Trainee v2.0
-
-Programa de **480 horas de formación**, desarrollado a través de Talento Digital para Chile, SENCE y Sustantiva SpA.
-
-Durante esta formación desarrollé competencias en:
-
-- Java.
-- Programación orientada a objetos.
-- Spring Boot.
-- Spring Framework.
-- Spring Security.
-- JWT.
-- Aplicaciones web dinámicas.
-- J2EE.
-- Arquitectura por capas.
-- Bases de datos relacionales.
-- MySQL y SQL.
-- HTML5.
-- CSS3.
-- JavaScript.
-- Bootstrap.
-- Thymeleaf.
-- CRUD.
-- Desarrollo de productos digitales.
-- Integración frontend y backend.
-
-<div align="center">
-
-[![Ver credencial](https://img.shields.io/badge/Ver_credencial_digital-Full_Stack_Java-8E44AD?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
+[![Full Stack Java](https://img.shields.io/badge/Credencial-Full_Stack_Java-0B1F3A?style=flat-square&logo=openjdk&logoColor=white)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
+![Chile](https://img.shields.io/badge/Chile-Concepción-C9A84C?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=manecist&label=Visitas&color=C9A84C&style=flat-square)
 
 </div>
 
 ---
 
-## 📊 Especialización actual en análisis de datos
+## ✦ Sobre mí
 
-Actualmente continúo mi desarrollo profesional mediante formación en análisis de datos a través de **Google Career Certificates y Coursera**.
+Soy **Desarrolladora Full Stack Java certificada, cofundadora, socia y administradora de Studios Conari SpA**, con un perfil multidisciplinario que conecta tecnología, desarrollo de videojuegos, producción digital, análisis de datos, diseño y gestión de proyectos creativos.
 
-Ya he completado los cursos:
+Mi trayectoria profesional comenzó en el área de la salud y posteriormente se amplió hacia la tecnología, completando formación intensiva en **Desarrollo de Aplicaciones Full Stack Java**, desarrollo web, bases de datos, marketing digital y análisis de datos.
 
-### ✅ Introducing Data Analytics and Analytical Thinking
+Actualmente concentro gran parte de mi trabajo en **Studios Conari SpA**, estudio creativo chileno dedicado al desarrollo de videojuegos, software, contenidos digitales, ilustración y propiedad intelectual.
 
-Contenidos relacionados con:
+Dentro del estudio participo en áreas como:
 
-- Introducción al análisis de datos.
-- Pensamiento analítico.
-- Identificación de problemas.
-- Ciclo de vida de los datos.
-- Toma de decisiones basada en evidencia.
-- Rol del análisis dentro de organizaciones.
-
-[Ver certificado del curso](https://coursera.org/verify/72KSUXXUTTN8)
-
-### ✅ Ask Effective Questions
-
-Contenidos relacionados con:
-
-- Formulación de preguntas efectivas.
-- Definición de problemas.
-- Identificación de necesidades.
-- Comunicación con interesados.
-- Preguntas SMART.
-- Preparación de proyectos analíticos.
-
-[Ver certificado del curso](https://coursera.org/verify/QCHGFWSZVHAX)
-
-### 🎯 Objetivos de especialización
-
-- Análisis de datos.
-- Excel aplicado.
-- SQL.
-- Limpieza y transformación de información.
-- Seguimiento de indicadores.
-- Visualización de datos.
-- Power BI.
-- Comunicación de resultados.
-- Apoyo a la toma de decisiones.
-- Analítica aplicada a salud, negocios y proyectos digitales.
-
----
-
-## 🩺 Matrona y profesional de la salud
-
-Soy **Matrona titulada por la Universidad San Sebastián**, Licenciada en Obstetricia y Matronería y Bachiller en Salud Sexual y Reproductiva.
-
-Cuento con experiencia en:
-
-- Atención primaria de salud.
-- Ginecología y obstetricia.
-- Control prenatal y puerperio.
-- Planificación familiar.
-- Climaterio.
-- Salud sexual y reproductiva.
-- Programas GES.
-- Prevención de cáncer cervicouterino.
-- Seguimiento de pacientes.
-- Gestión de resultados clínicos.
-- Educación sanitaria.
-- Lactancia materna.
-- Programas VIH.
-- Prevención de IAAS.
-- Atención de urgencias obstétricas.
-- Coordinación con equipos multidisciplinarios.
-- Gestión y trazabilidad de información clínica.
-
-Durante mi experiencia en atención primaria implementé herramientas de seguimiento digital mediante Excel para mejorar el control y acceso a resultados clínicos.
-
-Esta formación aporta a mi perfil tecnológico:
-
-- Responsabilidad profesional.
-- Trabajo bajo presión.
-- Gestión de información sensible.
-- Pensamiento estructurado.
-- Comunicación con usuarios.
-- Resolución de problemas.
-- Seguimiento de procesos.
-- Trabajo interdisciplinario.
-- Comprensión de necesidades humanas.
-
----
-
-## 🎮 Cofundadora de Studios Conari
-
-Soy **cofundadora, socia y administradora de Studios Conari SpA**, estudio chileno orientado al desarrollo de videojuegos, software, ilustración, contenidos digitales y propiedad intelectual.
-
-Actualmente trabajamos en nuestro primer videojuego independiente y en la preparación de un prototipo para futuras postulaciones a fondos culturales.
-
-Dentro del proyecto participo en áreas como:
-
+- Desarrollo y planificación de proyectos digitales.
 - Dirección de arte.
+- Producción editorial.
 - Ilustración digital.
 - Diseño visual.
-- Desarrollo y planificación de contenidos.
-- Documentación de producción.
+- Desarrollo web.
+- Documentación.
 - Organización de repositorios.
-- Marketing y comunicación.
-- Investigación de públicos.
-- Gestión de proyecto.
-- Apoyo en programación.
-- Diseño de personajes y escenarios.
-- Preparación de postulaciones culturales.
+- Comunicación digital.
+- Gestión administrativa.
+- Preparación de propuestas.
+- Coordinación de proyectos.
 
-Por protección de la propiedad intelectual, los diseños actuales, documentos internos, personajes, narrativa y avances del videojuego se mantienen en repositorios privados de la empresa.
+También cuento con conocimientos complementarios en modelado 3D, preparación de recursos digitales y herramientas utilizadas en desarrollo de videojuegos.
+
+> **Me interesa transformar ideas en proyectos reales combinando tecnología, creatividad, organización y aprendizaje continuo.**
+
+---
+
+# 🎮 Studios Conari SpA
+
+<p align="center">
+  <a href="https://studiosconari.github.io/">
+    <img
+      src="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/header-wordmark-night-transparent.png"
+      width="320"
+      alt="Studios Conari"
+    >
+  </a>
+</p>
 
 <div align="center">
 
-### 🎮 Primer videojuego independiente en desarrollo
+### Estudio creativo chileno
 
-**Arte • Narrativa • Programación • Investigación • Producción**
+**Arte ✦ Narrativa ✦ Tecnología ✦ Investigación ✦ Identidad**
+
+</div>
+
+Soy **cofundadora, socia y administradora de Studios Conari SpA**, estudio orientado a la creación de videojuegos, software, aplicaciones, contenidos digitales, publicaciones, ilustración, diseño y propiedades intelectuales originales.
+
+El estudio nace como un espacio para desarrollar proyectos donde convergen disciplinas creativas y tecnológicas.
+
+Mi participación dentro de Studios Conari incluye:
+
+- Gestión y administración del estudio.
+- Dirección de arte.
+- Ilustración digital.
+- Producción editorial.
+- Identidad visual.
+- Desarrollo y mantenimiento web.
+- Organización documental.
+- Preparación de propuestas.
+- Coordinación de proyectos.
+- Comunicación digital.
+- Apoyo en producción de videojuegos.
+- Desarrollo de recursos gráficos.
+
+También desarrollé y publiqué el sitio institucional utilizando:
+
+`HTML5` · `CSS3` · `JavaScript` · `GitHub Pages`
+
+Actualmente trabajamos en el desarrollo de una **propiedad intelectual original y un proyecto de videojuego independiente**, manteniendo parte de su información, narrativa y materiales de producción de manera privada durante su etapa de desarrollo.
+
+<div align="center">
+
+[![Sitio Oficial](https://img.shields.io/badge/STUDIOS_CONARI-SITIO_OFICIAL-C9A84C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studiosconari.github.io/)
+
+[![GitHub Studios Conari](https://img.shields.io/badge/STUDIOS_CONARI-GITHUB-0B1F3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudiosConari)
 
 </div>
 
 ---
 
-## 🚀 En qué estoy trabajando actualmente
+# ⚙️ Desarrollo y tecnologías
 
-- 💻 Consolidación de mis conocimientos Full Stack Java.
-- 📊 Especialización progresiva en análisis de datos.
-- 📈 Formación complementaria en Power BI.
-- 🎮 Desarrollo del primer prototipo de Studios Conari.
-- 🎨 Ilustración digital mediante tableta gráfica.
-- 📚 Documentación y planificación de proyectos culturales.
-- 🧩 Organización de portafolios creativos y tecnológicos.
-- 📣 Estrategia digital, marca y comunicación.
-- 🎥 Streaming y creación de contenido.
+<div align="center">
 
----
+<img
+  src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,git,github,vscode,idea&perline=6"
+  alt="Tecnologías de desarrollo"
+>
 
-## 🛠️ Tecnologías
+</div>
 
-### 💻 Stack tecnológico
+<br>
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,html,css,js,bootstrap,git,github,vscode,idea&perline=6"
-    alt="Tecnologías utilizadas"
-  >
-</p>
+| Área | Tecnologías y conocimientos |
+|---|---|
+| ☕ **Backend** | Java · Spring Boot · Spring Security · JWT · Servlets · JSP |
+| 🌐 **Frontend** | HTML5 · CSS3 · JavaScript · Bootstrap · Thymeleaf |
+| 🗄️ **Bases de datos** | MySQL · SQL |
+| 🧱 **Desarrollo** | CRUD · arquitectura por capas · integración frontend/backend |
+| 📊 **Datos** | Excel · SQL · indicadores · estructuración de información |
+| 🌍 **Web** | GitHub Pages · WordPress · diseño responsive |
+| 🛠️ **Workflow** | Git · GitHub · IntelliJ IDEA · Visual Studio Code |
 
-### ⚙️ Backend
+### Herramientas y conocimientos complementarios
 
-<p align="center">
-  ☕ <b>Java</b> • 🍃 <b>Spring Boot</b> • 🔐 <b>Spring Security</b> • 🪪 <b>JWT</b><br>
-  🧱 <b>Arquitectura por capas</b> • 🔄 <b>CRUD</b> • 📦 <b>Maven</b> • 🍃 <b>Thymeleaf</b>
-</p>
+También he trabajado con:
 
-### 🎨 Frontend
+`Blender` · `Godot` · `AccuRig` · `3D Builder` · `Clip Studio Paint` · `Adobe Photoshop`
 
-<p align="center">
-  🌐 <b>HTML5</b> • 🎨 <b>CSS3</b> • ⚡ <b>JavaScript</b> • 🅱️ <b>Bootstrap</b><br>
-  📱 <b>Diseño responsive</b> • 🧩 <b>Integración frontend y backend</b>
-</p>
-
-### 🗄️ Bases de datos
-
-<p align="center">
-  🐬 <b>MySQL</b> • 🐘 <b>PostgreSQL</b> • 🧾 <b>SQL</b><br>
-  🔗 <b>Modelado relacional</b> • 📊 <b>Consultas</b> • 🗂️ <b>Gestión de entidades</b>
-</p>
+Estas herramientas forman parte de mi experiencia práctica y de distintos proyectos creativos, pero no las presento como mi especialización principal.
 
 ---
 
-## 📊 Datos y gestión
+# 💼 Proyecto Full Stack destacado
 
-<p align="center">
-  📗 <b>Excel</b> • 📊 <b>Power BI en especialización</b> • 🗄️ <b>SQL</b><br>
-  📈 <b>Indicadores</b> • 🔎 <b>Trazabilidad</b> • 📋 <b>Gestión documental</b>
-</p>
+## 🛒 Ecommerce Full Stack Java
 
-Competencias en desarrollo:
+### Proyecto Final M7
+
+Aplicación web eCommerce desarrollada como proyecto final de mi formación en **Desarrollo Full Stack Java**.
+
+El proyecto integra frontend, backend, seguridad, base de datos y lógica de negocio dentro de una misma aplicación.
+
+### Funcionalidades
+
+- Registro e inicio de sesión.
+- Autenticación.
+- Autorización.
+- Roles `ADMIN`, `CLIENT` e `INVITADO`.
+- Gestión de productos.
+- CRUD completo.
+- Categorías y subcategorías.
+- Carrito de compras.
+- Gestión de pedidos.
+- Historial de compras.
+- Control de stock.
+- Panel administrativo.
+- Seguridad de rutas.
+- Integración con MySQL.
+
+### Tecnologías
+
+`Java` · `Spring Boot` · `Spring Security` · `JWT` · `MySQL` · `Thymeleaf` · `HTML5` · `CSS3` · `JavaScript` · `Bootstrap`
+
+<div align="center">
+
+[![Ver Ecommerce M7](https://img.shields.io/badge/VER_PROYECTO-Ecommerce_Full_Stack-C9A84C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
+
+</div>
+
+---
+
+# 🧱 Evolución Full Stack Java
+
+El sistema eCommerce fue desarrollado progresivamente durante mi formación.
+
+Cada módulo me permitió trabajar una parte distinta de la aplicación antes de integrarlas en el proyecto final.
+
+| Etapa | Proyecto | Área principal |
+|:---:|---|---|
+| **M2** | [Ecommerce Frontend](https://github.com/manecist/Ecommerce-Frontend-M2) | HTML · CSS · JavaScript · Responsive |
+| **M3** | [Ecommerce Base de Datos](https://github.com/manecist/Ecommerce-BD-M3) | SQL · Modelado relacional |
+| **M4** | [Ecommerce Backend](https://github.com/manecist/Ecommerce-Backend-M4) | Java · Backend · Arquitectura |
+| **M5** | [Ecommerce CRUD](https://github.com/manecist/Ecommerce-CRUD-M5) | CRUD · Integración |
+| **M6** | [Ecommerce Security](https://github.com/manecist/Ecommerce-CRUD-SECURITY-M6) | Spring Security · Login · Roles |
+| **M7** | [Ecommerce Proyecto Final](https://github.com/manecist/Ecommerce-Portafolio-Final-M7) | Aplicación Full Stack completa |
+
+---
+
+# 🎮 Desarrollo de videojuegos
+
+El desarrollo de videojuegos forma parte activa de mi trabajo dentro de **Studios Conari SpA**.
+
+Participo principalmente desde áreas relacionadas con:
+
+- Producción.
+- Dirección de arte.
+- Ilustración.
+- Diseño visual.
+- Documentación.
+- Organización de recursos.
+- Desarrollo de contenidos.
+- Preparación de assets.
+- Apoyo técnico.
+- Gestión del proyecto.
+
+También he adquirido experiencia práctica con herramientas y flujos asociados al desarrollo de videojuegos, incluyendo **Godot**, Blender y preparación de recursos gráficos y tridimensionales.
+
+Los proyectos actualmente en desarrollo mantienen parte de su información de forma privada mientras avanzan sus etapas de producción.
+
+---
+
+# 📊 Análisis de Datos
+
+Actualmente continúo ampliando mi perfil mediante formación en **Análisis de Datos** a través de Google y Coursera.
+
+Durante 2026 he trabajado contenidos relacionados con:
 
 - Pensamiento analítico.
 - Formulación de preguntas.
 - Identificación de problemas.
-- Gestión de registros.
-- Seguimiento de indicadores.
-- Control de información.
-- Organización de datos.
-- Mejora de procesos.
-- Comunicación de hallazgos.
-- Apoyo a decisiones estratégicas.
+- Identificación de stakeholders.
+- Toma de decisiones basada en datos.
+- Organización de información.
+- Estructuración de datos.
+- Indicadores.
+- Excel.
+- SQL.
+- Comunicación de resultados.
+
+### Formación completada
+
+✅ Introducing Data Analytics and Analytical Thinking  
+✅ Ask Effective Questions  
+✅ Make Data-Driven Decisions  
+✅ Always Remember the Stakeholder  
+✅ Foundations: Data, Data, Everywhere
+
+También cuento con formación complementaria en **Power BI**.
 
 ---
 
-## 📈 Marketing y estrategia digital
+# 🎨 Diseño y producción digital
 
-Cuento con formación en:
+Además del desarrollo tecnológico, trabajo en distintas áreas de producción visual.
+
+Mi experiencia incluye:
+
+- Ilustración digital.
+- Line art.
+- Diseño de personajes.
+- Color.
+- Composición.
+- Dirección de arte.
+- Identidad visual.
+- Diseño editorial.
+- Diagramación.
+- Tratamiento de imagen.
+- Preparación de documentos digitales.
+- Recursos gráficos para proyectos interactivos.
+
+### Herramientas utilizadas
+
+`Clip Studio Paint` · `Adobe Photoshop` · `Adobe Acrobat`
+
+---
+
+# 🎨 Arte e ilustración tradicional
+
+Mi experiencia artística se ha desarrollado principalmente de manera autodidacta mediante práctica, experimentación y creación de obras personales.
+
+Gran parte de estas ilustraciones fueron realizadas como **regalos para familiares, amistades y personas cercanas**, utilizando sus gustos y referencias como punto de partida.
+
+El portafolio incluye:
+
+- Dibujos completamente realizados a mano.
+- Ilustraciones personalizadas.
+- Composiciones de gran formato.
+- Obras originales.
+- Fan art sin fines comerciales.
+- Acuarela.
+- Témpera.
+- Óleo.
+- Cera pastel.
+- Plumones de alcohol.
+- Lápices acuarelables.
+- Tinta.
+- Técnicas mixtas.
+
+Estos trabajos corresponden a **proyectos personales y ejercicios de desarrollo artístico**, no a encargos comerciales.
+
+<div align="center">
+
+[![Portafolio de Arte](https://img.shields.io/badge/VER_PORTAFOLIO-Arte_e_Ilustración-C9A84C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional)
+
+</div>
+
+---
+
+# 🧩 Modelado e impresión 3D
+
+También he realizado trabajos de modelado y preparación de piezas tridimensionales como parte de mi aprendizaje y experimentación personal.
+
+He trabajado con:
+
+- Modelado básico en Blender.
+- Adaptación de modelos.
+- Reparación de mallas.
+- Texturizado.
+- Mapeado UV.
+- Rigging mediante herramientas automáticas.
+- Preparación de archivos STL.
+- Exportación FBX y GLB.
+- Preparación de recursos para proyectos digitales.
+
+También he realizado pruebas de **impresión 3D en PLA**, creando piezas para uso personal y otras como regalos para familiares y amigos.
+
+Estas piezas corresponden a ejercicios y proyectos personales.
+
+**No forman parte de una actividad comercial ni fueron desarrolladas para venta.**
+
+<div align="center">
+
+[![Modelos 3D](https://img.shields.io/badge/VER_PORTAFOLIO-Modelado_3D-C9A84C?style=for-the-badge&logo=blender&logoColor=white)](https://github.com/manecist/Modelos-3D)
+
+</div>
+
+---
+
+# 📈 Marketing y presencia digital
+
+Mi perfil tecnológico también se complementa con formación en marketing y estrategia digital.
+
+He desarrollado conocimientos en:
 
 - Marketing digital.
 - Gestión estratégica.
@@ -303,307 +357,212 @@ Cuento con formación en:
 - Marca personal.
 - Networking.
 - WordPress.
-- Comunicación digital.
 - Estrategia de contenidos.
+- Comunicación digital.
 - Crecimiento de negocios digitales.
-- Diseño y programación web.
 
-Esta formación me permite comprender los proyectos desde una perspectiva técnica, visual y estratégica, considerando también:
+Esta formación me permite observar los proyectos desde una perspectiva más amplia, considerando:
 
 - Público objetivo.
 - Propuesta de valor.
 - Posicionamiento.
-- Identidad visual.
+- Identidad.
 - Comunicación.
-- Presentación de productos.
-- Desarrollo de comunidad.
-- Crecimiento digital.
+- Presentación del producto.
+- Comunidad.
+- Presencia digital.
 
 ---
 
-## 🎨 Arte y creatividad
+# 🎓 Formación tecnológica
 
-Además del desarrollo tecnológico, trabajo en diferentes áreas artísticas y manuales.
+## 💻 Desarrollo de Aplicaciones Full Stack Java Trainee v2.0
 
-### ✏️ Ilustración
+**480 horas**
 
-- Ilustración tradicional.
-- Ilustración digital.
-- Diseño de personajes.
-- Composición de escenas.
-- Técnicas mixtas.
-- Lápices acuarelables.
-- Acuarela.
-- Témpera.
-- Óleo.
-- Cera pastel.
-- Plumones de alcohol.
-- Tinta.
-- Pintura manual.
-- Trabajo actual con tableta gráfica.
+SENCE · Talento Digital para Chile · Sustantiva SpA  
+2025 – 2026
 
-### 🧩 Modelado e impresión 3D
+Formación en:
 
-- Creación y adaptación de modelos.
-- Preparación de archivos STL.
-- Impresión en PLA.
-- Uso de Creality Ender 3.
-- Retiro de soportes.
-- Aplicación de filler.
-- Pulido.
-- Lijado.
-- Pintura manual.
-- Ensamblaje.
-- Terminación artesanal.
-
----
-
-# 💼 Proyectos destacados
-
-## 🛒 Ecommerce Full Stack — Proyecto Final M7
-
-Aplicación ecommerce completa desarrollada con Java y Spring Boot.
-
-### Funcionalidades principales
-
-- Registro e inicio de sesión.
-- Autenticación y autorización.
-- Roles `ADMIN`, `CLIENT` e `INVITADO`.
-- Gestión de productos.
-- CRUD completo.
-- Carrito de compras.
-- Gestión de pedidos.
-- Historial de compras.
-- Actualización automática de stock.
-- Seguridad de rutas.
-- Integración frontend, backend y base de datos.
-- Notificaciones en el navegador.
-
-### Tecnologías utilizadas
-
-`Java` • `Spring Boot` • `Spring Security` • `JWT` • `MySQL` • `Thymeleaf` • `HTML` • `CSS` • `JavaScript` • `Bootstrap`
+- Java.
+- Programación orientada a objetos.
+- Spring Boot.
+- Spring Framework.
+- Spring Security.
+- JWT.
+- JSP.
+- Servlets.
+- Thymeleaf.
+- MySQL.
+- SQL.
+- HTML5.
+- CSS.
+- JavaScript.
+- Bootstrap.
+- CRUD.
+- Arquitectura por capas.
+- Desarrollo de aplicaciones web.
 
 <div align="center">
 
-[![Ver Ecommerce M7](https://img.shields.io/badge/Ver_proyecto-Ecommerce_Full_Stack-2E86C1?style=for-the-badge&logo=github)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
+[![Credencial Full Stack Java](https://img.shields.io/badge/VER_CREDENCIAL-Full_Stack_Java-C9A84C?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
 
 </div>
 
 ---
 
-## 🎨 Arte e ilustración personalizada tradicional
+## 📚 Formación complementaria
 
-Portafolio dedicado a dibujos e ilustraciones tradicionales realizados completamente a mano.
+También cuento con formación en:
 
-Incluye:
-
-- Obras personalizadas.
-- Composiciones de gran formato.
-- Ilustraciones creadas como regalos.
-- Integración de personajes y escenarios.
-- Fan art sin fines comerciales.
-- Obras originales.
-- Técnicas mixtas.
-- Pintura, acuarela, tinta y lápices acuarelables.
-
-Entre los trabajos disponibles se encuentran:
-
-- Una composición personalizada que combina Lineage II y Solo Leveling.
-- Una ilustración panorámica de Genshin Impact.
-- Una obra original sobre la transición desde la soledad hacia la felicidad.
-
-<div align="center">
-
-[![Ver ilustraciones](https://img.shields.io/badge/Ver_portafolio-Arte_e_Ilustración-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional)
-
-</div>
-
----
-
-## 🧩 Modelado 3D e impresión en PLA
-
-Portafolio de modelos tridimensionales y piezas funcionales personalizadas.
-
-Incluye:
-
-- Stands para celulares.
-- Bases con espacios para cables de carga.
-- Organizadores.
-- Utensilios decorativos.
-- Modelos inspirados en personajes.
-- Archivos STL.
-- Fotografías de piezas terminadas.
-
-En cada proyecto participé en distintas etapas:
-
-- Modelado o adaptación.
-- Preparación para impresión.
-- Impresión en PLA.
-- Retiro de soportes.
-- Corrección de imperfecciones.
-- Aplicación de filler.
-- Pulido.
-- Lijado.
-- Pintura completamente a mano.
-- Ensamblaje y terminación.
-
-<div align="center">
-
-[![Ver modelos 3D](https://img.shields.io/badge/Ver_portafolio-Modelos_3D-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist/Modelos-3D)
-
-</div>
-
----
-
-## 🧱 Evolución del Ecommerce
-
-El sistema ecommerce fue desarrollado progresivamente durante mi formación Full Stack.
-
-| Módulo | Repositorio | Desarrollo |
-|---|---|---|
-| M2 | [Ecommerce Frontend](https://github.com/manecist/Ecommerce-Frontend-M2) | Interfaz, estructura web y diseño responsive |
-| M3 | [Ecommerce Base de Datos](https://github.com/manecist/Ecommerce-BD-M3) | Modelado relacional y scripts SQL |
-| M4 | [Ecommerce Backend](https://github.com/manecist/Ecommerce-Backend-M4) | Lógica de negocio y arquitectura por capas |
-| M5 | [Ecommerce CRUD](https://github.com/manecist/Ecommerce-CRUD-M5) | Integración y operaciones CRUD |
-| M6 | [Ecommerce Security](https://github.com/manecist/Ecommerce-CRUD-SECURITY-M6) | Login, registro, roles y seguridad |
-| M7 | [Ecommerce Proyecto Final](https://github.com/manecist/Ecommerce-Portafolio-Final-M7) | Sistema Full Stack integrado |
-
----
-
-## 🎥 Streaming y creación de contenido
-
-También desarrollo contenido mediante streaming, especialmente relacionado con videojuegos y comunidades digitales.
-
-Esta experiencia me ha permitido desarrollar habilidades en:
-
-- Comunicación frente a público.
-- Interacción con comunidades.
-- Presentación de contenidos.
-- Organización de transmisiones.
-- OBS Studio.
-- Edición de video.
-- CapCut.
-- Cultura gamer.
-- Construcción de comunidad.
-- Identidad digital.
-
-<div align="center">
-
-[![Canal de Twitch](https://img.shields.io/badge/Visitar_Twitch-ariacist-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ariacist)
-
-</div>
-
----
-
-## 🛠️ Herramientas
-
-<p align="center">
-  📝 <b>Word</b> • 📊 <b>Excel</b> • 📽️ <b>PowerPoint</b> • 📈 <b>Power BI</b><br><br>
-  🎨 <b>Photoshop</b> • 🧱 <b>3D Builder</b> • 🖌️ <b>Tableta gráfica</b><br><br>
-  🎬 <b>OBS Studio</b> • ✂️ <b>CapCut</b> • 🎞️ <b>Movie Maker</b><br><br>
-  💻 <b>Visual Studio Code</b> • ☕ <b>IntelliJ IDEA</b> • 🐙 <b>GitHub Desktop</b>
-</p>
-
----
-
-## 🎓 Formación destacada
-
-### 💻 Tecnología, programación y datos
-
-- Desarrollo de Aplicaciones Full Stack Java Trainee v2.0 — 480 horas.
-- Curso Acelerador de Carrera con Power BI.
-- Diplomado en Diseño y Programación Web — 100 horas.
-- Programación con JavaScript — 40 horas.
-- Diseño Web con HTML5 y CSS — 30 horas.
-- WordPress — 30 horas.
-- Ciberseguridad en entornos digitales — 30 horas.
-- Google Data Analytics mediante Coursera — en desarrollo.
-
-### 📈 Marketing y estrategia
-
-- Diplomado en Marketing Digital y Gestión Estratégica — 90 horas.
-- Diplomado en Crecimiento Digital de Negocios y Marca Personal — 100 horas.
+- Diseño y Programación Web.
+- Programación con JavaScript.
+- Diseño Web con HTML5 y CSS.
+- WordPress.
 - Marketing Digital.
 - Growth Hacking.
 - Analítica Web.
 - Construcción de Marca.
-- Networking y Marketing Personal.
-
-### 🩺 Salud, calidad y gestión
-
-- Título profesional de Matrona.
-- Licenciatura en Obstetricia y Matronería.
-- Bachiller en Salud Sexual y Reproductiva.
-- Diplomado en IAAS — 320 horas.
-- Técnicas de Gestión de Calidad y Acreditación en Salud — 120 horas.
-- Salud Ocupacional.
-- RCP, DEA y OVACE.
-- Climaterio y menopausia.
-- Prevención y control de infecciones.
-- Trabajo en equipo, liderazgo y manejo de conflictos.
-
----
-
-## 🌟 Competencias profesionales
-
-| Área | Competencias |
-|---|---|
-| Desarrollo | Java, Spring Boot, frontend, backend, seguridad y bases de datos |
-| Salud | Matronería, atención clínica, educación y gestión asistencial |
-| Datos | Excel, SQL, indicadores, registros, trazabilidad y Power BI |
-| Marketing | Estrategia digital, marca, analítica web y contenidos |
-| Videojuegos | Producción, arte, documentación, investigación y planificación |
-| Arte | Ilustración tradicional, digital, pintura y composición |
-| Modelado 3D | STL, impresión PLA, lijado, pintura y ensamblaje |
-| Comunicación | Streaming, educación, usuarios, pacientes y comunidades |
-| Gestión | Organización, seguimiento, documentación y mejora de procesos |
-
----
-
-## 🎯 Áreas de interés
-
-- Desarrollo Full Stack.
-- Desarrollo backend con Java.
-- Desarrollo frontend.
-- Soporte TI y soporte funcional.
-- Análisis de datos.
+- Crecimiento Digital de Negocios.
+- Ciberseguridad.
 - Power BI.
-- Salud digital.
-- Transformación digital.
-- Gestión de proyectos.
-- Marketing digital.
-- Videojuegos.
-- Producción de contenidos digitales.
-- Proyectos culturales y tecnológicos.
-- Ilustración y diseño visual.
+- Análisis de Datos.
 
 ---
 
-## 📈 Estadísticas de GitHub
+# 🚀 Actualmente
+
+Actualmente estoy enfocada en:
+
+- 🎮 Desarrollo de proyectos de videojuegos dentro de **Studios Conari SpA**.
+- 🐉 Consolidación y crecimiento del estudio.
+- 💻 Fortalecimiento de mi perfil como **Desarrolladora Full Stack Java**.
+- 🎨 Producción visual e ilustración para proyectos digitales.
+- 📊 Continuación de mi formación en **Análisis de Datos**.
+- 📈 Profundización progresiva en **Power BI**.
+- 🌐 Desarrollo y mantenimiento web.
+- 📚 Producción editorial y documentación.
+- 📣 Identidad y comunicación de Studios Conari.
+- 🎥 Preparación de una futura reactivación del streaming asociado al estudio.
+
+---
+
+# 🎥 Streaming & Content Creation
+
+El streaming y la creación de contenido forman parte de mi experiencia dentro del mundo de los videojuegos y las comunidades digitales.
+
+Actualmente las transmisiones se encuentran en **pausa temporal**, mientras concentramos nuestro trabajo en el desarrollo y consolidación de **Studios Conari SpA**.
+
+La intención es retomar progresivamente esta área como parte de la presencia digital del estudio.
+
+El canal lo comparto junto a mi esposo.
+
+<div align="center">
+
+[![Twitch](https://img.shields.io/badge/TWITCH-ArianesDCoen-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arianesdcoen)
+
+**Streaming actualmente en pausa temporal**
+
+</div>
+
+---
+
+# 🩺 Formación profesional en salud
+
+Además de mi desarrollo actual en tecnología y producción digital, soy **Matrona titulada por la Universidad San Sebastián**, Licenciada en Obstetricia y Matronería y Bachiller en Salud Sexual y Reproductiva.
+
+Ejercí profesionalmente durante aproximadamente cinco años en atención clínica, atención primaria y salud pública.
+
+Mi experiencia incluye:
+
+- Atención primaria.
+- Salud sexual y reproductiva.
+- Ginecología.
+- Obstetricia.
+- Control prenatal.
+- Climaterio.
+- Planificación familiar.
+- Programas GES.
+- Prevención de cáncer cervicouterino.
+- Lactancia materna.
+- Programas VIH.
+- Prevención de IAAS.
+- Urgencias obstétricas.
+- Educación sanitaria.
+- Coordinación interdisciplinaria.
+- Gestión de información clínica.
+
+Durante mi experiencia en atención primaria desarrollé herramientas de seguimiento en **Excel** para resultados de PAP y mamografía, reemplazando registros manuales y mejorando la trazabilidad de la información.
+
+Esta experiencia sigue formando parte de mi manera de trabajar y me aporta:
+
+- Responsabilidad profesional.
+- Organización.
+- Trabajo bajo presión.
+- Pensamiento estructurado.
+- Gestión de información.
+- Trazabilidad.
+- Comunicación.
+- Coordinación interdisciplinaria.
+- Resolución de problemas.
+- Cumplimiento de procedimientos.
+
+---
+
+# 🌟 Perfil multidisciplinario
+
+| Área | Experiencia |
+|---|---|
+| 💻 **Software** | Java · Spring Boot · frontend · backend · seguridad |
+| 🎮 **Empresa & videojuegos** | Studios Conari · producción · gestión de proyectos |
+| 📊 **Datos** | Excel · SQL · análisis · indicadores · trazabilidad |
+| 🎨 **Diseño** | Ilustración digital · identidad visual · producción editorial |
+| 🌐 **Web** | HTML5 · CSS · JavaScript · GitHub Pages · WordPress |
+| 📈 **Marketing** | Estrategia digital · marca · contenidos · analítica |
+| 🧩 **3D** | Conocimientos de modelado · preparación de recursos · impresión PLA |
+| 📋 **Gestión** | Organización · documentación · seguimiento · coordinación |
+| 🩺 **Salud** | Matronería · atención clínica · salud pública · educación |
+
+---
+
+# 📈 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=manecist&show_icons=true&theme=tokyonight"
-    height="165"
-    alt="Estadísticas de GitHub"
-  >
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manecist&layout=compact&theme=tokyonight"
-    height="165"
-    alt="Lenguajes más utilizados"
-  >
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=manecist&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A84C&text_color=8B949E&icon_color=C9A84C"
+  height="165"
+  alt="Estadísticas de GitHub"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manecist&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A84C&text_color=8B949E"
+  height="165"
+  alt="Lenguajes utilizados"
+/>
+
 </p>
 
 ---
 
-## 📫 Contacto
+# 📫 Contacto
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-manecisterna%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manecisterna@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-María_Cisterna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-cisterna-e)
-[![GitHub](https://img.shields.io/badge/GitHub-manecist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist)
-[![Twitch](https://img.shields.io/badge/Twitch-ariacist-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ariacist)
+### ✦ Tecnología · Videojuegos · Arte · Proyectos ✦
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-María_Cisterna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-cisterna-e/)
+
+[![Email](https://img.shields.io/badge/EMAIL-studiosconari%40gmail.com-C9A84C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:studiosconari@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-manecist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist)
+
+[![Studios Conari](https://img.shields.io/badge/STUDIOS_CONARI-WEB-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studiosconari.github.io/)
+
+[![Twitch](https://img.shields.io/badge/TWITCH-ArianesDCoen-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arianesdcoen)
 
 </div>
 
@@ -611,27 +570,25 @@ Esta experiencia me ha permitido desarrollar habilidades en:
 
 <div align="center">
 
-## 💖 Salud, tecnología, datos y creatividad
+## ✦ Tecnología · Videojuegos · Arte · Construcción de proyectos ✦
 
-### Diferentes disciplinas conectadas para construir soluciones y experiencias
+### María Inés Cisterna Escobar
 
-<br>
+**💻 Full Stack Java Developer**
 
-**🩺 Matrona | 💻 Desarrolladora Full Stack Java | 📊 Análisis de datos | 🎮 Cofundadora de Studios Conari**
+**🎮 Cofundadora y administradora de Studios Conari SpA**
 
-<br>
+**🎮 Desarrollo de videojuegos · 🎨 Producción Digital · 📊 Data Analysis**
 
-✨ Aprendizaje continuo • Pensamiento analítico • Creatividad • Perseverancia ✨
-
-<br>
-
-🎮 **Videojuegos | Streaming | Ilustración | Modelado 3D | Desarrollo tecnológico** 🎮
+**🩺 Matrona titulada**
 
 <br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="140" alt="Animación tecnológica">
-</p>
+> **Aprender · Analizar · Crear · Construir**
+
+<br>
+
+🇨🇱 **Concepción · Chile**
 
 <br>
 
