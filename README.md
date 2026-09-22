@@ -19,7 +19,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-manecist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manecist)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María_Cisterna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-cisterna-e)
-[![Twitch](https://img.shields.io/badge/Twitch-ariacist-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ariacist)
+[![Twitch](https://img.shields.io/badge/Twitch-ariacist-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arianesdcoen)
 [![Credencial](https://img.shields.io/badge/Credencial-Full_Stack_Java-6F1D8C?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
 
 </div>
