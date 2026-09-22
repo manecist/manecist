@@ -69,21 +69,19 @@ También cuento con conocimientos complementarios en modelado 3D y herramientas 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/header-wordmark-night-transparent.png"
+      srcset="https://github.com/StudiosConari/studiosconari.github.io/raw/refs/heads/main/assets/header-wordmark-night-transparent.png"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/header-wordmark-transparent.png"
+      srcset="https://github.com/StudiosConari/studiosconari.github.io/raw/refs/heads/main/assets/header-wordmark-transparent.png"
     >
     <img
-      src="https://raw.githubusercontent.com/StudiosConari/studiosconari.github.io/main/assets/header-wordmark-transparent.png"
-      width="520"
+      src="https://github.com/StudiosConari/studiosconari.github.io/raw/refs/heads/main/assets/header-wordmark-transparent.png"
+      width="430"
       alt="Studios Conari"
     >
   </picture>
 </a>
-
-<br>
 
 ### Estudio creativo chileno
 
@@ -93,7 +91,7 @@ También cuento con conocimientos complementarios en modelado 3D y herramientas 
 
 Soy **cofundadora, socia y administradora de Studios Conari SpA**, estudio orientado a la creación de videojuegos, software, aplicaciones, contenidos digitales, publicaciones, ilustración, diseño y propiedades intelectuales originales.
 
-Studios Conari nace como un espacio donde convergen distintas disciplinas creativas y tecnológicas para desarrollar proyectos con identidad propia.
+Studios Conari nace como un espacio donde convergen diferentes disciplinas creativas y tecnológicas para desarrollar proyectos con identidad propia.
 
 Mi participación dentro del estudio incluye:
 
@@ -114,7 +112,7 @@ También desarrollé y publiqué el sitio institucional mediante:
 
 `HTML5` · `CSS3` · `JavaScript` · `GitHub Pages`
 
-Actualmente trabajamos en una **propiedad intelectual original y un proyecto de videojuego independiente**, manteniendo parte de su información, narrativa y materiales de producción de manera privada durante su etapa actual de desarrollo.
+Actualmente trabajamos en una **propiedad intelectual original y un proyecto de videojuego independiente**, manteniendo parte de su información, narrativa y materiales de producción de forma privada durante su etapa actual de desarrollo.
 
 <div align="center">
 
@@ -189,37 +187,43 @@ El sistema integra frontend, backend, seguridad, base de datos y lógica de nego
 
 <div align="center">
 
-### ✦ Vista principal del proyecto
+### ✦ Ecommerce Full Stack · Galería
 
-<a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
-  <img
-    src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/HOME.png"
-    width="90%"
-    alt="Vista principal Ecommerce Full Stack"
-  >
-</a>
+<p align="center">
+  <a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
+    <img
+      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/HOME.png"
+      width="47%"
+      alt="Página principal del Ecommerce"
+    >
+  </a>
+  &nbsp;
+  <a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
+    <img
+      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/PRODUCTOS%20EN%20PAG%20CON%20FILTROS.png"
+      width="47%"
+      alt="Catálogo y filtros del Ecommerce"
+    >
+  </a>
+</p>
 
-<br><br>
-
-### ✦ Gestión del sistema
-
-<img
-  src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/PANEL%20GESTION.png"
-  width="82%"
-  alt="Panel de gestión Ecommerce"
->
-
-<br><br>
-
-### ✦ Catálogo de productos
-
-<img
-  src="https://raw.githubusercontent.com/manecist/Ecommerce-Portafolio-Final-M7/main/PRODUCTOS%20EN%20PAG%20CON%20FILTROS.png"
-  width="82%"
-  alt="Catálogo del Ecommerce"
->
-
-<br><br>
+<p align="center">
+  <a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
+    <img
+      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/carritocompra%20%281%29.png"
+      width="47%"
+      alt="Carrito de compras"
+    >
+  </a>
+  &nbsp;
+  <a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
+    <img
+      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/pedidos.png"
+      width="47%"
+      alt="Gestión de pedidos"
+    >
+  </a>
+</p>
 
 [![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-Ecommerce%20Full%20Stack-FF8FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
 
@@ -229,7 +233,7 @@ El sistema integra frontend, backend, seguridad, base de datos y lógica de nego
 
 # 🧱 Evolución Full Stack Java
 
-El proyecto eCommerce se desarrolló progresivamente durante mi formación, construyendo las distintas capas de una aplicación antes de integrarlas en el proyecto final.
+El eCommerce se desarrolló progresivamente durante mi formación, construyendo distintas capas de una aplicación antes de integrarlas en el proyecto final.
 
 | Etapa | Proyecto | Desarrollo |
 |:---:|---|---|
@@ -246,7 +250,7 @@ El proyecto eCommerce se desarrolló progresivamente durante mi formación, cons
 
 El desarrollo de videojuegos forma parte activa de mi trabajo dentro de **Studios Conari SpA**.
 
-Participo principalmente en:
+Participo principalmente en áreas relacionadas con:
 
 - Producción.
 - Dirección de arte.
@@ -262,6 +266,154 @@ Participo principalmente en:
 También he adquirido experiencia práctica con herramientas asociadas al desarrollo de videojuegos, incluyendo **Godot, Blender y distintos flujos de preparación de recursos gráficos y tridimensionales**.
 
 Los proyectos actualmente en desarrollo mantienen parte de su información privada mientras avanzan sus etapas de producción.
+
+---
+
+# 🎨 Diseño y producción digital
+
+Además del desarrollo tecnológico, trabajo en diferentes áreas de producción visual.
+
+Mi experiencia incluye:
+
+- Ilustración digital.
+- Line art.
+- Diseño de personajes.
+- Color.
+- Composición.
+- Dirección de arte.
+- Identidad visual.
+- Diseño editorial.
+- Diagramación.
+- Tratamiento de imagen.
+- Preparación de documentos digitales.
+- Recursos gráficos para proyectos interactivos.
+
+### Herramientas
+
+`Clip Studio Paint` · `Adobe Photoshop` · `Adobe Acrobat`
+
+---
+
+# 🖌️ Arte e ilustración tradicional
+
+Mi experiencia artística se ha desarrollado principalmente de manera **autodidacta**, mediante práctica, experimentación y creación de obras personales.
+
+Gran parte de estos trabajos fueron creados como **regalos para familiares, amistades y personas cercanas**, tomando sus gustos e intereses como punto de partida.
+
+No corresponden a encargos comerciales ni fueron creados para la venta.
+
+<div align="center">
+
+### ✦ Selección de obras ✦
+
+<p align="center">
+  <a href="https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional">
+    <img
+      src="https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional/raw/refs/heads/main/DIBUJOS%20PROPIOS/DIBUJO%20PARA%20ESTEBAN%20PERSONALIZADO%20EN%20SOLO%20LEVELING%20Y%20LINAGE%20CON%20SU%20PJ%20PROPIO%20PRINCIPAL.jpeg"
+      width="47%"
+      alt="Ilustración personalizada Lineage II y Solo Leveling"
+    >
+  </a>
+  &nbsp;
+  <a href="https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional">
+    <img
+      src="https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional/raw/refs/heads/main/DIBUJOS%20PROPIOS/IMAGEN%20DIBUJO%20LIBRE%20DE%20TRANSICIOND%20E%20SOLEDAD%20A%20ALEGRIA.jpeg"
+      width="47%"
+      alt="Obra original transición de la soledad a la felicidad"
+    >
+  </a>
+</p>
+
+### ✦ Composición panorámica
+
+<a href="https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional">
+  <img
+    src="https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional/raw/refs/heads/main/DIBUJOS%20PROPIOS/IMAGEN%20DIBUJO%20COMPLETA%20DE%20GENSHIN%20PARA%20KEVIN.jpeg"
+    width="95%"
+    alt="Composición panorámica tradicional de Genshin Impact"
+  >
+</a>
+
+<br><br>
+
+[![Ver portafolio](https://img.shields.io/badge/VER%20PORTAFOLIO-Arte%20e%20Ilustración-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional)
+
+</div>
+
+### Técnicas y materiales
+
+`Acuarela` · `Témpera` · `Óleo` · `Lápices acuarelables` · `Cera pastel` · `Tinta` · `Plumones de alcohol` · `Técnicas mixtas`
+
+---
+
+# 🧩 Modelado e impresión 3D
+
+También he desarrollado proyectos personales de **modelado, adaptación de piezas e impresión 3D**, como parte de un proceso de aprendizaje autodidacta.
+
+Mi experiencia en este ámbito incluye:
+
+- Diseño, modificación y adaptación de modelos.
+- Preparación de archivos STL.
+- Impresión mediante filamento PLA.
+- Uso de Creality Ender 3.
+- Retiro de soportes.
+- Corrección de imperfecciones.
+- Aplicación de filler.
+- Pulido y lijado.
+- Pintura completamente a mano.
+- Ensamblaje y terminación.
+
+Las piezas fueron realizadas para **uso personal o como regalos para familiares y personas cercanas**.
+
+**No corresponden a productos comerciales ni fueron desarrolladas para venta.**
+
+<div align="center">
+
+### ✦ Stands personalizados ✦
+
+<p align="center">
+  <a href="https://github.com/manecist/Modelos-3D">
+    <img
+      src="https://github.com/manecist/Modelos-3D/raw/refs/heads/main/Modelados%203d%20para%20PLA/Stitch%20stand/IMG-20220331-WA0030.jpeg"
+      width="47%"
+      alt="Stand personalizado de Stitch"
+    >
+  </a>
+  &nbsp;
+  <a href="https://github.com/manecist/Modelos-3D">
+    <img
+      src="https://github.com/manecist/Modelos-3D/raw/refs/heads/main/Modelados%203d%20para%20PLA/Stitch%20stand/IMG-20220331-WA0031.jpeg"
+      width="47%"
+      alt="Stand de Stitch terminado"
+    >
+  </a>
+</p>
+
+### ✦ Impresión, pintura y terminación manual ✦
+
+<p align="center">
+  <a href="https://github.com/manecist/Modelos-3D">
+    <img
+      src="https://github.com/manecist/Modelos-3D/raw/refs/heads/main/Modelados%203d%20para%20PLA/Pokemon%20stand/IMG-20220331-WA0002.jpeg"
+      width="47%"
+      alt="Stand personalizado de Bulbasaur"
+    >
+  </a>
+  &nbsp;
+  <a href="https://github.com/manecist/Modelos-3D">
+    <img
+      src="https://github.com/manecist/Modelos-3D/raw/refs/heads/main/Modelados%203d%20para%20PLA/Pokemon%20stand/IMG-20220331-WA0003.jpeg"
+      width="47%"
+      alt="Stand de Bulbasaur terminado"
+    >
+  </a>
+</p>
+
+<br>
+
+[![Ver modelos 3D](https://img.shields.io/badge/VER%20PORTAFOLIO-Modelado%203D-7EC8FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Modelos-3D)
+
+</div>
 
 ---
 
@@ -294,145 +446,6 @@ También cuento con formación complementaria en **Power BI**.
 
 ---
 
-# 🎨 Diseño y producción digital
-
-Además del desarrollo tecnológico, trabajo en distintas áreas de producción visual.
-
-Mi experiencia incluye:
-
-- Ilustración digital.
-- Line art.
-- Diseño de personajes.
-- Color.
-- Composición.
-- Dirección de arte.
-- Identidad visual.
-- Diseño editorial.
-- Diagramación.
-- Tratamiento de imagen.
-- Preparación de documentos digitales.
-- Recursos gráficos para proyectos interactivos.
-
-### Herramientas
-
-`Clip Studio Paint` · `Adobe Photoshop` · `Adobe Acrobat`
-
----
-
-# 🎨 Arte e ilustración tradicional
-
-Mi experiencia artística se ha desarrollado principalmente de manera autodidacta, mediante práctica, experimentación y creación de obras personales.
-
-Gran parte de estas ilustraciones fueron realizadas como **regalos para familiares, amistades y personas cercanas**, tomando sus gustos y referencias como punto de partida.
-
-Estos trabajos corresponden a proyectos personales y ejercicios de desarrollo artístico, **no a encargos comerciales**.
-
-<br>
-
-<div align="center">
-
-### ✦ Selección de trabajos
-
-<br>
-
-#### Ilustración personalizada
-
-<img
-  src="https://raw.githubusercontent.com/manecist/Arte-e-ilustracion-personalizada-tradicional/main/DIBUJOS%20PROPIOS/DIBUJO%20PARA%20ESTEBAN%20PERSONALIZADO%20EN%20SOLO%20LEVELING%20Y%20LINAGE%20CON%20SU%20PJ%20PROPIO%20PRINCIPAL.jpeg"
-  width="65%"
-  alt="Ilustración tradicional personalizada"
->
-
-<br><br>
-
-#### Composición panorámica
-
-<img
-  src="https://raw.githubusercontent.com/manecist/Arte-e-ilustracion-personalizada-tradicional/main/DIBUJOS%20PROPIOS/IMAGEN%20DIBUJO%20COMPLETA%20DE%20GENSHIN%20PARA%20KEVIN.jpeg"
-  width="90%"
-  alt="Ilustración panorámica tradicional"
->
-
-<br><br>
-
-#### Obra original
-
-<img
-  src="https://raw.githubusercontent.com/manecist/Arte-e-ilustracion-personalizada-tradicional/main/DIBUJOS%20PROPIOS/IMAGEN%20DIBUJO%20LIBRE%20DE%20TRANSICIOND%20E%20SOLEDAD%20A%20ALEGRIA.jpeg"
-  width="65%"
-  alt="Obra tradicional original"
->
-
-<br><br>
-
-[![Portafolio de Arte](https://img.shields.io/badge/VER%20PORTAFOLIO-Arte%20e%20Ilustración-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Arte-e-ilustracion-personalizada-tradicional)
-
-</div>
-
-<br>
-
-He trabajado con técnicas y materiales como:
-
-`Acuarela` · `Témpera` · `Óleo` · `Lápices acuarelables` · `Cera pastel` · `Tinta` · `Plumones de alcohol` · `Técnicas mixtas`
-
----
-
-# 🧩 Modelado e impresión 3D
-
-También he experimentado con modelado, modificación de archivos y producción mediante impresión 3D como parte de mi aprendizaje personal.
-
-He trabajado en:
-
-- Modelado y adaptación básica de piezas.
-- Modificación de modelos.
-- Reparación de mallas.
-- Preparación de archivos STL.
-- Impresión mediante filamento PLA.
-- Retiro de soportes.
-- Corrección de imperfecciones.
-- Aplicación de filler.
-- Lijado y pulido.
-- Pintura manual.
-- Ensamblaje y terminación.
-
-He utilizado herramientas como **Blender, 3D Builder y AccuRig** dentro de distintos procesos de aprendizaje y experimentación.
-
-Las piezas impresas fueron realizadas para **uso personal o como regalos para familiares y amigos**.
-
-**No corresponden a productos comerciales ni fueron desarrolladas para venta.**
-
-<br>
-
-<div align="center">
-
-### ✦ Ejemplo de proyecto realizado
-
-<br>
-
-<img
-  src="https://raw.githubusercontent.com/manecist/Modelos-3D/main/Modelados%203d%20para%20PLA/Pokemon%20stand/IMG-20220331-WA0002.jpeg"
-  width="62%"
-  alt="Proyecto personal de impresión 3D"
->
-
-<br><br>
-
-### ✦ Pieza terminada
-
-<img
-  src="https://raw.githubusercontent.com/manecist/Modelos-3D/main/Modelados%203d%20para%20PLA/Pokemon%20stand/IMG-20220331-WA0005.jpeg"
-  width="62%"
-  alt="Pieza impresa y terminada en PLA"
->
-
-<br><br>
-
-[![Modelos 3D](https://img.shields.io/badge/VER%20PORTAFOLIO-Modelado%203D-7EC8FF?style=for-the-badge&logo=blender&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Modelos-3D)
-
-</div>
-
----
-
 # 📈 Marketing y presencia digital
 
 Mi perfil tecnológico se complementa con formación en marketing y estrategia digital.
@@ -445,13 +458,12 @@ Cuento con conocimientos en:
 - Analítica web.
 - Construcción de marca.
 - Marca personal.
-- Networking.
 - WordPress.
 - Estrategia de contenidos.
 - Comunicación digital.
 - Crecimiento de negocios digitales.
 
-Esto me permite analizar un proyecto no solo desde su construcción técnica, sino también desde su identidad, comunicación, público y presentación.
+Esto me permite observar los proyectos no solo desde su construcción técnica, sino también desde su **identidad, presentación, comunicación y público**.
 
 ---
 
@@ -463,26 +475,9 @@ Esto me permite analizar un proyecto no solo desde su construcción técnica, si
 SENCE · Talento Digital para Chile · Sustantiva SpA  
 **2025 – 2026**
 
-Formación en:
+### Formación técnica
 
-- Java.
-- Programación orientada a objetos.
-- Spring Boot.
-- Spring Framework.
-- Spring Security.
-- JWT.
-- JSP.
-- Servlets.
-- Thymeleaf.
-- MySQL.
-- SQL.
-- HTML5.
-- CSS.
-- JavaScript.
-- Bootstrap.
-- CRUD.
-- Arquitectura por capas.
-- Desarrollo de aplicaciones web.
+`Java` · `POO` · `Spring Boot` · `Spring Framework` · `Spring Security` · `JWT` · `JSP` · `Servlets` · `Thymeleaf` · `MySQL` · `SQL` · `HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `CRUD`
 
 <div align="center">
 
@@ -490,11 +485,7 @@ Formación en:
 
 </div>
 
----
-
-## 📚 Formación complementaria
-
-También cuento con formación en:
+### 📚 Formación complementaria
 
 - Diseño y Programación Web.
 - Programación con JavaScript.
@@ -511,13 +502,13 @@ También cuento con formación en:
 
 ---
 
-# 🩺 Matrona · Formación y experiencia profesional en salud
+# 🩺 Matrona · Formación y experiencia profesional
 
 Soy **Matrona titulada por la Universidad San Sebastián**, **Licenciada en Obstetricia y Matronería** y **Bachiller en Salud Sexual y Reproductiva**.
 
 Ejercí profesionalmente durante aproximadamente cinco años en atención clínica, atención primaria y salud pública.
 
-Mi experiencia profesional incluye:
+Mi experiencia incluye:
 
 - Atención primaria de salud.
 - Ginecología y obstetricia.
@@ -537,17 +528,7 @@ Mi experiencia profesional incluye:
 
 Durante mi experiencia en atención primaria desarrollé herramientas de seguimiento mediante **Excel para resultados de PAP y mamografía**, reemplazando registros manuales y facilitando el acceso y trazabilidad de la información.
 
-Esta experiencia también aporta a mi perfil tecnológico:
-
-- Pensamiento estructurado.
-- Gestión rigurosa de información.
-- Responsabilidad profesional.
-- Trabajo bajo presión.
-- Resolución de problemas.
-- Organización.
-- Comunicación con usuarios.
-- Coordinación interdisciplinaria.
-- Seguimiento de procesos.
+Esta experiencia también aporta a mi perfil tecnológico competencias como **pensamiento estructurado, gestión rigurosa de información, organización, resolución de problemas y trabajo interdisciplinario**.
 
 ---
 
@@ -561,7 +542,7 @@ Esta experiencia también aporta a mi perfil tecnológico:
 | 🎨 **Diseño y arte** | Ilustración digital · ilustración tradicional · producción editorial |
 | 🌐 **Desarrollo web** | HTML5 · CSS3 · JavaScript · GitHub Pages · WordPress |
 | 📈 **Marketing** | Estrategia digital · branding · contenidos · analítica web |
-| 🧩 **3D** | Conocimientos de modelado · preparación de archivos · impresión PLA |
+| 🧩 **3D** | Conocimientos de modelado · impresión PLA · terminación manual |
 | 📋 **Gestión** | Organización · documentación · seguimiento · coordinación |
 | 🩺 **Matronería** | Matrona titulada · Licenciada en Obstetricia y Matronería · experiencia clínica y APS |
 
@@ -613,13 +594,9 @@ El canal lo comparto junto a mi esposo.
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
-
 [![Email](https://img.shields.io/badge/Email-studiosconari%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1D3557)](mailto:studiosconari@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist)
-
 [![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.github.io/)
-
 [![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
 
 </div>
