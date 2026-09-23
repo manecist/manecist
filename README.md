@@ -127,10 +127,12 @@ Actualmente trabajamos en una **propiedad intelectual original y un proyecto de 
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,git,github,vscode,idea&perline=6"
-  alt="Tecnologías de desarrollo"
->
+![Java](https://img.shields.io/badge/Java-1D3557?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-CB8BFF?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7EC8FF?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=for-the-badge&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF8FD8?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1D3557?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
