@@ -448,6 +448,61 @@ También cuento con formación complementaria en **Power BI**.
 
 ---
 
+# 🩺 Portafolio de matrona
+
+Llevo a páginas interactivas lo que explico en la consulta: **simple, paso a paso y con fuentes chilenas** (MINSAL, OMS, CDC).
+
+- 🤰 **Cápsula Chile Crece Contigo:** embarazo, parto, recién nacido, lactancia y posparto en 7 etapas.
+- 🎬 **8 cápsulas animadas en video:** leche materna, masaje Shantala, chanchitos, sueño seguro, cuándo ir a la maternidad, PAP, píldora del día después y mitos de la lactancia.
+- 💊 **Anticonceptivos al toque** y 📋 **torpedo profesional** con más de 130 marcas de Chile.
+- 📈 **Historias de datos** sobre cáncer, ITS y matronería, y 🎓 mi **tesis visual**.
+
+<div align="center">
+
+### ✦ Mis cápsulas en video ✦
+
+<p align="center">
+  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_01_como_guardo_mi_leche.jpg" width="47%" alt="Cápsula: cómo guardo mi leche"></a>
+  &nbsp;
+  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_04_sueno_seguro.jpg" width="47%" alt="Cápsula: sueño seguro"></a>
+</p>
+<p align="center">
+  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_06_que_es_el_pap.jpg" width="47%" alt="Cápsula: qué es el PAP"></a>
+  &nbsp;
+  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_08_mitos_de_la_lactancia.jpg" width="47%" alt="Cápsula: mitos de la lactancia"></a>
+</p>
+
+<br>
+
+[![Ver portafolio](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Portafolio%20Matrona-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/Matrona/)
+[![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Matrona-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Matrona)
+
+</div>
+
+---
+
+# 📊 Tableros de salud en Power BI y Tableau
+
+Cinco tableros con datos públicos de Chile, cada uno con su pregunta, sus KPI y sus conclusiones.
+
+<div align="center">
+
+| | Tablero | Pregunta que responde |
+|:-:|---|---|
+| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_anticonceptivos.png" width="120"> | 💊 **Anticonceptivos en Chile** | ¿Qué método me sirve y qué tan eficaz es? |
+| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_its.png" width="120"> | 🩺 **ITS en Chile** | ¿Están aumentando las ITS y dónde está Chile frente al mundo? |
+| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_embarazo.png" width="120"> | 🤰 **Embarazo y matronería** | ¿Qué pasa con el embarazo adolescente y las matronas? |
+| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_ajuar.png" width="120"> | 🍼 **Ajuar Chile Crece Contigo** | ¿Llega el ajuar a todas las guaguas y por qué importa? |
+| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_cancer.png" width="120"> | 🎗️ **Cáncer en Chile** | ¿Cuánto aumenta el cáncer y cómo le ganamos? |
+
+<br>
+
+[![Ver tableros](https://img.shields.io/badge/VER%20TABLEROS-Power%20BI%20y%20Tableau-D4AF37?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Analisis-de-datos-dashboards)
+
+</div>
+
+---
+
 # 📈 Marketing y presencia digital
 
 Mi perfil tecnológico se complementa con formación en marketing y estrategia digital.
