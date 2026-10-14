@@ -450,10 +450,13 @@ También cuento con formación complementaria en **Power BI**.
 
 # 🩺 Portafolio de matrona
 
+<p align="center"><a href="https://manecist.github.io/Matrona/"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/banner_portafolio.jpg" width="100%" alt="Portafolio de matrona: 8 páginas interactivas y 8 cápsulas nuevas en video"></a></p>
+
 Llevo a páginas interactivas lo que explico en la consulta: **simple, paso a paso y con fuentes chilenas** (MINSAL, OMS, CDC).
 
 - 🤰 **Cápsula Chile Crece Contigo:** embarazo, parto, recién nacido, lactancia y posparto en 7 etapas.
-- 🎬 **8 cápsulas animadas en video:** leche materna, masaje Shantala, chanchitos, sueño seguro, cuándo ir a la maternidad, PAP, píldora del día después y mitos de la lactancia.
+- 🎬 **8 cápsulas nuevas en video (2026):** con información actualizada, cada una con resumen y preguntas al final: leche materna, masaje Shantala, chanchitos, sueño seguro, cuándo ir a la maternidad, PAP, píldora del día después y mitos de la lactancia.
+- 📖 **Guías paso a paso con imágenes** (Shantala, guardar la leche, chanchitos, sueño seguro y cuidados del recién nacido) y una **guía de regalo en PDF** para descargar.
 - 💊 **Anticonceptivos al toque** y 📋 **torpedo profesional** con más de 130 marcas de Chile.
 - 📈 **Historias de datos** sobre cáncer, ITS y matronería, y 🎓 mi **tesis visual**.
 
