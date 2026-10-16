@@ -459,6 +459,7 @@ Llevo a páginas interactivas lo que explico en la consulta: **simple, paso a pa
 - 📖 **Guías paso a paso con imágenes** (Shantala, guardar la leche, chanchitos, sueño seguro y cuidados del recién nacido) y una **guía de regalo en PDF** para descargar.
 - 💊 **Anticonceptivos al toque** y 📋 **torpedo profesional** con más de 130 marcas de Chile.
 - 📈 **Historias de datos** sobre cáncer, ITS y matronería, y 🎓 mi **tesis visual**.
+- 🧾 **Planilla de registro PAP en Excel:** formulario con macros, edad, vigencia y estado calculados solos, y resumen anual con gráficos (datos 100 % ficticios).
 
 <div align="center">
 
@@ -482,6 +483,18 @@ Llevo a páginas interactivas lo que explico en la consulta: **simple, paso a pa
 <td align="center" width="50%"><a href="https://manecist.github.io/Matrona/tesis.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/tesis.jpg" width="100%" alt="🎓 Mi tesis"></a><br><b><a href="https://manecist.github.io/Matrona/tesis.html">🎓 Mi tesis</a></b></td>
 </tr>
 </table>
+
+### ✦ Planilla de registro PAP ✦
+
+<p align="center">
+<a href="https://manecist.github.io/Matrona/#herr"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/pap/pap_registro.webp" width="47%" alt="Planilla PAP: registro por año con vigencia y estado"></a>
+&nbsp;
+<a href="https://manecist.github.io/Matrona/#herr"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/pap/pap_resumen.webp" width="47%" alt="Planilla PAP: resumen anual con gráficos"></a>
+</p>
+
+<sub>Registro por año con vigencia y estado automáticos · Resumen anual por mes, derivaciones a UPC y VPH + · Datos 100 % ficticios</sub>
+
+[![Descargar planilla](https://img.shields.io/badge/DESCARGAR-Planilla%20PAP%20Excel-9ED9C6?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Matrona/raw/refs/heads/main/planilla-pap/PAP_portafolio_MariaCisterna.xlsm)
 
 ### ✦ Mis cápsulas en video ✦
 
@@ -608,6 +621,8 @@ Mi experiencia incluye:
 - Gestión y trazabilidad de información clínica.
 
 Durante mi experiencia en atención primaria desarrollé herramientas de seguimiento mediante **Excel para resultados de PAP y mamografía**, reemplazando registros manuales y facilitando el acceso y trazabilidad de la información.
+
+Una versión de mi **planilla de registro PAP**, con datos 100 % ficticios, está disponible en mi [portafolio de matrona](https://manecist.github.io/Matrona/#herr) para verla y descargarla.
 
 Esta experiencia también aporta a mi perfil tecnológico competencias como **pensamiento estructurado, gestión rigurosa de información, organización, resolución de problemas y trabajo interdisciplinario**.
 
