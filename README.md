@@ -173,7 +173,8 @@ Funciona completo en el navegador, con **PostgreSQL ejecutándose en WebAssembly
 - Flujo de revisión y aprobación con consulta a par experto.
 - Versiones inmutables y bitácora de auditoría.
 - Importación de pruebas antiguas en papel, Word o PDF.
-- Formas A y B barajadas, pauta, conversión a nota 1,0–7,0 y exportación a Moodle.
+- Formas A y B barajadas, pauta y conversión a nota 1,0–7,0.
+- Integración de ida y vuelta con Moodle: envío de pruebas y retorno de resultados sin datos personales.
 - Corrección automática de hojas de respuesta de lector óptico.
 - Análisis de ítems: dificultad, discriminación y punto biserial.
 - Seis roles con permisos verificados en el servidor.
