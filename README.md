@@ -174,7 +174,7 @@ Funciona completo en el navegador, con **PostgreSQL ejecutándose en WebAssembly
 - Versiones inmutables y bitácora de auditoría.
 - Importación de pruebas antiguas en papel, Word o PDF.
 - Formas A y B barajadas, pauta y conversión a nota 1,0–7,0.
-- Integración de ida y vuelta con Moodle: envío de pruebas y retorno de resultados sin datos personales.
+- Integración de ida y vuelta con Moodle: envío de pruebas y retorno de resultados sin datos personales, **[probada con un Moodle 4.5 real](https://github.com/manecist/banco-evaluaciones-demo/tree/main/docs/prueba-integracion-moodle)**.
 - Corrección automática de hojas de respuesta de lector óptico.
 - Análisis de ítems: dificultad, discriminación y punto biserial.
 - Seis roles con permisos verificados en el servidor.
@@ -225,6 +225,7 @@ Funciona completo en el navegador, con **PostgreSQL ejecutándose en WebAssembly
   </a>
 </p>
 
+[![Integración probada con Moodle 4.5](https://img.shields.io/badge/✅%20INTEGRACIÓN%20PROBADA-Moodle%204.5%20real-7EC8FF?style=for-the-badge&logo=moodle&logoColor=white&labelColor=1D3557)](https://github.com/manecist/banco-evaluaciones-demo/tree/main/docs/prueba-integracion-moodle)
 [![Ver demo](https://img.shields.io/badge/VER%20DEMO-En%20línea-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/banco-evaluaciones-demo/)
 [![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-Banco%20de%20Evaluaciones-FF8FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/banco-evaluaciones-demo)
 
