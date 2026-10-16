@@ -158,7 +158,78 @@ Estas herramientas forman parte de mi experiencia práctica y de distintos proye
 
 ---
 
-# 💼 Proyecto destacado
+# 💼 Proyectos destacados
+
+## 📝 Banco de Evaluaciones · Demo técnico
+
+Demo técnico de **Studios Conari SpA**: un módulo de **banco de preguntas y evaluaciones para educación técnica de nivel superior**, que acompaña todo el recorrido de una prueba, **del papel a lo digital**.
+
+Funciona completo en el navegador, con **PostgreSQL ejecutándose en WebAssembly**, y también como API REST con PostgreSQL 16 en Docker. Todos los datos son ficticios.
+
+### Funcionalidades principales
+
+- Redacción guiada de preguntas en 5 pasos, con asesor que propone soluciones.
+- Segunda opinión de IA sobre la respuesta correcta, sin reemplazar la decisión docente.
+- Flujo de revisión y aprobación con consulta a par experto.
+- Versiones inmutables y bitácora de auditoría.
+- Importación de pruebas antiguas en papel, Word o PDF.
+- Formas A y B barajadas, pauta, conversión a nota 1,0–7,0 y exportación a Moodle.
+- Corrección automática de hojas de respuesta de lector óptico.
+- Análisis de ítems: dificultad, discriminación y punto biserial.
+- Seis roles con permisos verificados en el servidor.
+
+### Tecnologías
+
+`TypeScript` · `Node.js` · `Express` · `React` · `PostgreSQL` · `PGlite` · `Zod` · `OpenAPI` · `Vitest` · `Docker Compose` · `GitHub Actions`
+
+<br>
+
+<div align="center">
+
+### ✦ Banco de Evaluaciones · Galería
+
+<p align="center">
+  <a href="https://manecist.github.io/banco-evaluaciones-demo/">
+    <img
+      src="https://github.com/manecist/banco-evaluaciones-demo/raw/refs/heads/main/docs/capturas/galeria/03-editor-asesor.png"
+      width="47%"
+      alt="Nueva pregunta con asesor y segunda opinión de IA"
+    >
+  </a>
+  &nbsp;
+  <a href="https://manecist.github.io/banco-evaluaciones-demo/">
+    <img
+      src="https://github.com/manecist/banco-evaluaciones-demo/raw/refs/heads/main/docs/capturas/galeria/19-corregir-hojas.png"
+      width="47%"
+      alt="Corrección automática de hojas de respuesta"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://manecist.github.io/banco-evaluaciones-demo/">
+    <img
+      src="https://github.com/manecist/banco-evaluaciones-demo/raw/refs/heads/main/docs/capturas/galeria/18-importar-prueba.png"
+      width="47%"
+      alt="Importación de una prueba antigua"
+    >
+  </a>
+  &nbsp;
+  <a href="https://manecist.github.io/banco-evaluaciones-demo/">
+    <img
+      src="https://github.com/manecist/banco-evaluaciones-demo/raw/refs/heads/main/docs/capturas/galeria/10-analisis.png"
+      width="47%"
+      alt="Análisis de ítems"
+    >
+  </a>
+</p>
+
+[![Ver demo](https://img.shields.io/badge/VER%20DEMO-En%20línea-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/banco-evaluaciones-demo/)
+[![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-Banco%20de%20Evaluaciones-FF8FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/banco-evaluaciones-demo)
+
+</div>
+
+<br>
 
 ## 🛒 Ecommerce Full Stack Java
 
