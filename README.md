@@ -17,7 +17,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
 [![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Interactivo-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/)
 [![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.cl/)
@@ -27,7 +27,7 @@
 
 [![Full Stack Java](https://img.shields.io/badge/Credencial-Full%20Stack%20Java-7EC8FF?style=flat-square&logo=openjdk&logoColor=white&labelColor=1D3557)](https://www.acreditta.com/credential/840655be-6245-4c15-a9f4-6fc4542a71b1)
 ![Chile](https://img.shields.io/badge/Chile-Concepción-D4AF37?style=flat-square&labelColor=1D3557)
-![Visitas](https://komarev.com/ghpvc/?username=manecist&label=Visitas&color=CB8BFF&style=flat-square)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=manecist.manecist&left_text=Visitas&left_color=%231D3557&right_color=%23CB8BFF)
 
 </div>
 
@@ -569,7 +569,7 @@ Llevo a páginas interactivas lo que explico en la consulta: **simple, paso a pa
 
 <sub>Registro por año con vigencia y estado automáticos · Resumen anual por mes, derivaciones a UPC y VPH + · Datos 100 % ficticios</sub>
 
-[![Descargar planilla](https://img.shields.io/badge/DESCARGAR-Planilla%20PAP%20Excel-9ED9C6?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Matrona/raw/refs/heads/main/planilla-pap/PAP_portafolio_MariaCisterna.xlsm)
+[![Descargar planilla](https://img.shields.io/badge/DESCARGAR-Planilla%20PAP%20Excel-9ED9C6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDJoMTFsNSA1djE1SDR6bTEwIDEuNVY4aDQuNXpNNyAxMXYyaDR2LTJ6bTYgMHYyaDR2LTJ6bS02IDR2Mmg0di0yem02IDB2Mmg0di0yeiIvPjwvc3ZnPg%3D%3D&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Matrona/raw/refs/heads/main/planilla-pap/PAP_portafolio_MariaCisterna.xlsm)
 
 ### ✦ Mis cápsulas en video ✦
 
@@ -609,7 +609,7 @@ Cinco tableros con datos públicos de Chile, cada uno con su pregunta, sus KPI y
 
 <br>
 
-[![Ver en mi portafolio](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Tableros%20interactivos-D4AF37?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1D3557)](https://manecist.github.io/#datos)
+[![Ver en mi portafolio](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Tableros%20interactivos-D4AF37?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDIwaDE4djJIM3pNNSAxMWgzdjhINXptNS41LTVoM3YxM2gtM3pNMTYgMmgzdjE3aC0zeiIvPjwvc3ZnPg%3D%3D&logoColor=white&labelColor=1D3557)](https://manecist.github.io/#datos)
 [![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Power%20BI%20y%20Tableau-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Analisis-de-datos-dashboards)
 
 </div>
@@ -765,7 +765,7 @@ El canal lo comparto junto a mi esposo.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
 [![Email](https://img.shields.io/badge/Email-studiosconari%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1D3557)](mailto:studiosconari@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Interactivo-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/)
