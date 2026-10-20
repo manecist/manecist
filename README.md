@@ -19,7 +19,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
 [![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist)
-[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.github.io/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Interactivo-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/)
+[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.cl/)
 [![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
 
 <br>
@@ -65,7 +66,7 @@ También cuento con conocimientos complementarios en modelado 3D y herramientas 
 
 <div align="center">
 
-<a href="https://studiosconari.github.io/">
+<a href="https://studiosconari.cl/">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -116,7 +117,7 @@ Actualmente trabajamos en una **propiedad intelectual original y un proyecto de 
 
 <div align="center">
 
-[![Sitio Oficial](https://img.shields.io/badge/Studios%20Conari-Sitio%20Oficial-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.github.io/)
+[![Sitio Oficial](https://img.shields.io/badge/Studios%20Conari-Sitio%20Oficial-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.cl/)
 [![GitHub](https://img.shields.io/badge/Studios%20Conari-GitHub-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/StudiosConari)
 
 </div>
@@ -265,7 +266,7 @@ El sistema integra frontend, backend, seguridad, base de datos y lógica de nego
 ### ✦ Ecommerce Full Stack · Galería
 
 <p align="center">
-  <a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
+  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
     <img
       src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/HOME.png"
       width="47%"
@@ -273,7 +274,7 @@ El sistema integra frontend, backend, seguridad, base de datos y lógica de nego
     >
   </a>
   &nbsp;
-  <a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
+  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
     <img
       src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/PRODUCTOS%20EN%20PAG%20CON%20FILTROS.png"
       width="47%"
@@ -283,7 +284,7 @@ El sistema integra frontend, backend, seguridad, base de datos y lógica de nego
 </p>
 
 <p align="center">
-  <a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
+  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
     <img
       src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/carritocompra%20%281%29.png"
       width="47%"
@@ -291,7 +292,7 @@ El sistema integra frontend, backend, seguridad, base de datos y lógica de nego
     >
   </a>
   &nbsp;
-  <a href="https://github.com/manecist/Ecommerce-Portafolio-Final-M7">
+  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
     <img
       src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/pedidos.png"
       width="47%"
@@ -300,7 +301,8 @@ El sistema integra frontend, backend, seguridad, base de datos y lógica de nego
   </a>
 </p>
 
-[![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-Ecommerce%20Full%20Stack-FF8FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
+[![Ver en línea](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Magical%20Alliance-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/Ecommerce-Portafolio-Final-M7/)
+[![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Ecommerce%20Full%20Stack-FF8FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
 
 </div>
 
@@ -312,12 +314,12 @@ El eCommerce se desarrolló progresivamente durante mi formación, construyendo 
 
 | Etapa | Proyecto | Desarrollo |
 |:---:|---|---|
-| **M2** | [Ecommerce Frontend](https://github.com/manecist/Ecommerce-Frontend-M2) | HTML · CSS · JavaScript · Responsive |
+| **M2** | [Ecommerce Frontend](https://github.com/manecist/Ecommerce-Frontend-M2) · [✨ ver en línea](https://manecist.github.io/Ecommerce-Frontend-M2/) | HTML · CSS · JavaScript · Responsive |
 | **M3** | [Ecommerce Base de Datos](https://github.com/manecist/Ecommerce-BD-M3) | SQL · Modelado relacional |
 | **M4** | [Ecommerce Backend](https://github.com/manecist/Ecommerce-Backend-M4) | Java · Backend · Arquitectura |
 | **M5** | [Ecommerce CRUD](https://github.com/manecist/Ecommerce-CRUD-M5) | CRUD · Integración |
 | **M6** | [Ecommerce Security](https://github.com/manecist/Ecommerce-CRUD-SECURITY-M6) | Spring Security · Login · Roles |
-| **M7** | [Ecommerce Proyecto Final](https://github.com/manecist/Ecommerce-Portafolio-Final-M7) | Aplicación Full Stack integrada |
+| **M7** | [Ecommerce Proyecto Final](https://github.com/manecist/Ecommerce-Portafolio-Final-M7) · [✨ ver en línea](https://manecist.github.io/Ecommerce-Portafolio-Final-M7/) | Aplicación Full Stack integrada |
 
 ---
 
@@ -607,7 +609,8 @@ Cinco tableros con datos públicos de Chile, cada uno con su pregunta, sus KPI y
 
 <br>
 
-[![Ver tableros](https://img.shields.io/badge/VER%20TABLEROS-Power%20BI%20y%20Tableau-D4AF37?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Analisis-de-datos-dashboards)
+[![Ver en mi portafolio](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Tableros%20interactivos-D4AF37?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1D3557)](https://manecist.github.io/#datos)
+[![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Power%20BI%20y%20Tableau-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Analisis-de-datos-dashboards)
 
 </div>
 
@@ -765,7 +768,8 @@ El canal lo comparto junto a mi esposo.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Cisterna-7EC8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3557)](https://www.linkedin.com/in/maria-cisterna-e/)
 [![Email](https://img.shields.io/badge/Email-studiosconari%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1D3557)](mailto:studiosconari@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-manecist-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist)
-[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.github.io/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Interactivo-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/)
+[![Studios Conari](https://img.shields.io/badge/Studios%20Conari-Web-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://studiosconari.cl/)
 [![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
 
 </div>
