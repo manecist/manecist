@@ -234,93 +234,6 @@ Funciona completo en el navegador, con **PostgreSQL ejecutándose en WebAssembly
 
 <br>
 
-## 🛒 Ecommerce Full Stack Java
-
-Aplicación web eCommerce desarrollada como proyecto final de mi formación en **Desarrollo de Aplicaciones Full Stack Java**.
-
-El sistema integra frontend, backend, seguridad, base de datos y lógica de negocio dentro de una misma aplicación.
-
-### Funcionalidades principales
-
-- Registro e inicio de sesión.
-- Autenticación y autorización.
-- Roles `ADMIN`, `CLIENT` e `INVITADO`.
-- CRUD de productos.
-- Gestión de categorías y subcategorías.
-- Carrito de compras.
-- Gestión de pedidos.
-- Historial de compras.
-- Control y actualización de stock.
-- Panel administrativo.
-- Seguridad de rutas.
-- Integración con MySQL.
-
-### Tecnologías
-
-`Java` · `Spring Boot` · `Spring Security` · `JWT` · `MySQL` · `Thymeleaf` · `HTML5` · `CSS3` · `JavaScript` · `Bootstrap`
-
-<br>
-
-<div align="center">
-
-### ✦ Ecommerce Full Stack · Galería
-
-<p align="center">
-  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
-    <img
-      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/HOME.png"
-      width="47%"
-      alt="Página principal del Ecommerce"
-    >
-  </a>
-  &nbsp;
-  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
-    <img
-      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/PRODUCTOS%20EN%20PAG%20CON%20FILTROS.png"
-      width="47%"
-      alt="Catálogo y filtros del Ecommerce"
-    >
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
-    <img
-      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/carritocompra%20%281%29.png"
-      width="47%"
-      alt="Carrito de compras"
-    >
-  </a>
-  &nbsp;
-  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
-    <img
-      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/pedidos.png"
-      width="47%"
-      alt="Gestión de pedidos"
-    >
-  </a>
-</p>
-
-[![Ver en línea](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Magical%20Alliance-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/Ecommerce-Portafolio-Final-M7/)
-[![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Ecommerce%20Full%20Stack-FF8FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
-
-</div>
-
----
-
-# 🧱 Evolución Full Stack Java
-
-El eCommerce se desarrolló progresivamente durante mi formación, construyendo distintas capas de una aplicación antes de integrarlas en el proyecto final.
-
-| Etapa | Proyecto | Desarrollo |
-|:---:|---|---|
-| **M2** | [Ecommerce Frontend](https://github.com/manecist/Ecommerce-Frontend-M2) · [✨ ver en línea](https://manecist.github.io/Ecommerce-Frontend-M2/) | HTML · CSS · JavaScript · Responsive |
-| **M3** | [Ecommerce Base de Datos](https://github.com/manecist/Ecommerce-BD-M3) | SQL · Modelado relacional |
-| **M4** | [Ecommerce Backend](https://github.com/manecist/Ecommerce-Backend-M4) | Java · Backend · Arquitectura |
-| **M5** | [Ecommerce CRUD](https://github.com/manecist/Ecommerce-CRUD-M5) | CRUD · Integración |
-| **M6** | [Ecommerce Security](https://github.com/manecist/Ecommerce-CRUD-SECURITY-M6) | Spring Security · Login · Roles |
-| **M7** | [Ecommerce Proyecto Final](https://github.com/manecist/Ecommerce-Portafolio-Final-M7) · [✨ ver en línea](https://manecist.github.io/Ecommerce-Portafolio-Final-M7/) | Aplicación Full Stack integrada |
-
 ---
 
 # 📊 Análisis de Datos
@@ -442,6 +355,95 @@ Llevo a páginas interactivas lo que explico en la consulta: **simple, paso a pa
 [![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Matrona-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Matrona)
 
 </div>
+
+---
+
+# 🛒 Ecommerce Full Stack Java
+
+Aplicación web eCommerce desarrollada como proyecto final de mi formación en **Desarrollo de Aplicaciones Full Stack Java**.
+
+El sistema integra frontend, backend, seguridad, base de datos y lógica de negocio dentro de una misma aplicación.
+
+### Funcionalidades principales
+
+- Registro e inicio de sesión.
+- Autenticación y autorización.
+- Roles `ADMIN`, `CLIENT` e `INVITADO`.
+- CRUD de productos.
+- Gestión de categorías y subcategorías.
+- Carrito de compras.
+- Gestión de pedidos.
+- Historial de compras.
+- Control y actualización de stock.
+- Panel administrativo.
+- Seguridad de rutas.
+- Integración con MySQL.
+
+### Tecnologías
+
+`Java` · `Spring Boot` · `Spring Security` · `JWT` · `MySQL` · `Thymeleaf` · `HTML5` · `CSS3` · `JavaScript` · `Bootstrap`
+
+<br>
+
+<div align="center">
+
+### ✦ Ecommerce Full Stack · Galería
+
+<p align="center">
+  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
+    <img
+      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/HOME.png"
+      width="47%"
+      alt="Página principal del Ecommerce"
+    >
+  </a>
+  &nbsp;
+  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
+    <img
+      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/PRODUCTOS%20EN%20PAG%20CON%20FILTROS.png"
+      width="47%"
+      alt="Catálogo y filtros del Ecommerce"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
+    <img
+      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/carritocompra%20%281%29.png"
+      width="47%"
+      alt="Carrito de compras"
+    >
+  </a>
+  &nbsp;
+  <a href="https://manecist.github.io/Ecommerce-Portafolio-Final-M7/">
+    <img
+      src="https://github.com/manecist/Ecommerce-Portafolio-Final-M7/raw/refs/heads/main/pedidos.png"
+      width="47%"
+      alt="Gestión de pedidos"
+    >
+  </a>
+</p>
+
+[![Ver en línea](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Magical%20Alliance-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/Ecommerce-Portafolio-Final-M7/)
+[![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Ecommerce%20Full%20Stack-FF8FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Ecommerce-Portafolio-Final-M7)
+
+</div>
+
+---
+
+# 🧱 Evolución Full Stack Java
+
+El eCommerce se desarrolló progresivamente durante mi formación, construyendo distintas capas de una aplicación antes de integrarlas en el proyecto final.
+
+| Etapa | Proyecto | Desarrollo |
+|:---:|---|---|
+| **M2** | [Ecommerce Frontend](https://github.com/manecist/Ecommerce-Frontend-M2) · [✨ ver en línea](https://manecist.github.io/Ecommerce-Frontend-M2/) | HTML · CSS · JavaScript · Responsive |
+| **M3** | [Ecommerce Base de Datos](https://github.com/manecist/Ecommerce-BD-M3) | SQL · Modelado relacional |
+| **M4** | [Ecommerce Backend](https://github.com/manecist/Ecommerce-Backend-M4) | Java · Backend · Arquitectura |
+| **M5** | [Ecommerce CRUD](https://github.com/manecist/Ecommerce-CRUD-M5) | CRUD · Integración |
+| **M6** | [Ecommerce Security](https://github.com/manecist/Ecommerce-CRUD-SECURITY-M6) | Spring Security · Login · Roles |
+| **M7** | [Ecommerce Proyecto Final](https://github.com/manecist/Ecommerce-Portafolio-Final-M7) · [✨ ver en línea](https://manecist.github.io/Ecommerce-Portafolio-Final-M7/) | Aplicación Full Stack integrada |
 
 ---
 
