@@ -323,6 +323,128 @@ El eCommerce se desarrolló progresivamente durante mi formación, construyendo 
 
 ---
 
+# 📊 Análisis de Datos
+
+Actualmente continúo ampliando mi perfil mediante formación en **Análisis de Datos** a través de Google y Coursera.
+
+He trabajado contenidos relacionados con:
+
+- Pensamiento analítico.
+- Formulación de preguntas.
+- Identificación de problemas.
+- Identificación de stakeholders.
+- Toma de decisiones basada en datos.
+- Organización y estructuración de información.
+- Indicadores.
+- Excel.
+- SQL.
+- Comunicación de resultados.
+
+### Formación completada dentro del programa
+
+✅ Introducing Data Analytics and Analytical Thinking  
+✅ Ask Effective Questions  
+✅ Make Data-Driven Decisions  
+✅ Always Remember the Stakeholder  
+✅ Foundations: Data, Data, Everywhere  
+
+También cuento con formación complementaria en **Power BI**.
+
+---
+
+# 📊 Tableros de salud en Power BI y Tableau
+
+Cinco tableros con datos públicos de Chile, cada uno con su pregunta, sus KPI y sus conclusiones.
+
+<div align="center">
+
+| | Tablero | Pregunta que responde |
+|:-:|---|---|
+| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_anticonceptivos.png" width="120"> | 💊 **Anticonceptivos en Chile** | ¿Qué método me sirve y qué tan eficaz es? |
+| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_its.png" width="120"> | 🩺 **ITS en Chile** | ¿Están aumentando las ITS y dónde está Chile frente al mundo? |
+| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_embarazo.png" width="120"> | 🤰 **Embarazo y matronería** | ¿Qué pasa con el embarazo adolescente y las matronas? |
+| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_ajuar.png" width="120"> | 🍼 **Ajuar Chile Crece Contigo** | ¿Llega el ajuar a todas las guaguas y por qué importa? |
+| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_cancer.png" width="120"> | 🎗️ **Cáncer en Chile** | ¿Cuánto aumenta el cáncer y cómo le ganamos? |
+
+<br>
+
+[![Ver en mi portafolio](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Tableros%20interactivos-D4AF37?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDIwaDE4djJIM3pNNSAxMWgzdjhINXptNS41LTVoM3YxM2gtM3pNMTYgMmgzdjE3aC0zeiIvPjwvc3ZnPg%3D%3D&logoColor=white&labelColor=1D3557)](https://manecist.github.io/#datos)
+[![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Power%20BI%20y%20Tableau-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Analisis-de-datos-dashboards)
+
+</div>
+
+---
+
+# 🩺 Portafolio de matrona
+
+<p align="center"><a href="https://manecist.github.io/Matrona/"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/banner_portafolio.jpg" width="100%" alt="Portafolio de matrona: 8 páginas interactivas y 8 cápsulas nuevas en video"></a></p>
+
+Llevo a páginas interactivas lo que explico en la consulta: **simple, paso a paso y con fuentes chilenas** (MINSAL, OMS, CDC).
+
+- 🤰 **Cápsula Chile Crece Contigo:** embarazo, parto, recién nacido, lactancia y posparto en 7 etapas.
+- 🎬 **8 cápsulas nuevas en video (2026):** con información actualizada, cada una con resumen y preguntas al final: leche materna, masaje Shantala, chanchitos, sueño seguro, cuándo ir a la maternidad, PAP, píldora del día después y mitos de la lactancia.
+- 📖 **Guías paso a paso con imágenes** (Shantala, guardar la leche, chanchitos, sueño seguro y cuidados del recién nacido) y una **guía de regalo en PDF** para descargar.
+- 💊 **Anticonceptivos al toque** y 📋 **torpedo profesional** con más de 130 marcas de Chile.
+- 📈 **Historias de datos** sobre cáncer, ITS y matronería, y 🎓 mi **tesis visual**.
+- 🧾 **Planilla de registro PAP en Excel:** formulario con macros, edad, vigencia y estado calculados solos, y resumen anual con gráficos (datos 100 % ficticios).
+
+<div align="center">
+
+### ✦ Las 8 páginas interactivas ✦
+
+<table>
+<tr>
+<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/index.jpg" width="100%" alt="🏠 Portada"></a><br><b><a href="https://manecist.github.io/Matrona/">🏠 Portada</a></b></td>
+<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/capsula.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/capsula.jpg" width="100%" alt="🤰 Cápsula Chile Crece Contigo"></a><br><b><a href="https://manecist.github.io/Matrona/capsula.html">🤰 Cápsula Chile Crece Contigo</a></b></td>
+</tr>
+<tr>
+<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/guia-anticonceptivos.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/guia-anticonceptivos.jpg" width="100%" alt="💊 Anticonceptivos al toque"></a><br><b><a href="https://manecist.github.io/Matrona/guia-anticonceptivos.html">💊 Anticonceptivos al toque</a></b></td>
+<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/torpedo.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/torpedo.jpg" width="100%" alt="📋 Torpedo profesional"></a><br><b><a href="https://manecist.github.io/Matrona/torpedo.html">📋 Torpedo profesional</a></b></td>
+</tr>
+<tr>
+<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/historia-cancer.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/historia-cancer.jpg" width="100%" alt="🎗️ Cáncer"></a><br><b><a href="https://manecist.github.io/Matrona/historia-cancer.html">🎗️ Cáncer</a></b></td>
+<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/historia-its.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/historia-its.jpg" width="100%" alt="🔴 ITS"></a><br><b><a href="https://manecist.github.io/Matrona/historia-its.html">🔴 ITS</a></b></td>
+</tr>
+<tr>
+<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/historia-matronas.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/historia-matronas.jpg" width="100%" alt="👩‍⚕️ Matronas"></a><br><b><a href="https://manecist.github.io/Matrona/historia-matronas.html">👩‍⚕️ Matronas</a></b></td>
+<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/tesis.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/tesis.jpg" width="100%" alt="🎓 Mi tesis"></a><br><b><a href="https://manecist.github.io/Matrona/tesis.html">🎓 Mi tesis</a></b></td>
+</tr>
+</table>
+
+### ✦ Planilla de registro PAP ✦
+
+<p align="center">
+<a href="https://manecist.github.io/Matrona/#herr"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/pap/pap_registro.webp" width="47%" alt="Planilla PAP: registro por año con vigencia y estado"></a>
+&nbsp;
+<a href="https://manecist.github.io/Matrona/#herr"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/pap/pap_resumen.webp" width="47%" alt="Planilla PAP: resumen anual con gráficos"></a>
+</p>
+
+<sub>Registro por año con vigencia y estado automáticos · Resumen anual por mes, derivaciones a UPC y VPH + · Datos 100 % ficticios</sub>
+
+[![Descargar planilla](https://img.shields.io/badge/DESCARGAR-Planilla%20PAP%20Excel-9ED9C6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDJoMTFsNSA1djE1SDR6bTEwIDEuNVY4aDQuNXpNNyAxMXYyaDR2LTJ6bTYgMHYyaDR2LTJ6bS02IDR2Mmg0di0yem02IDB2Mmg0di0yeiIvPjwvc3ZnPg%3D%3D&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Matrona/raw/refs/heads/main/planilla-pap/PAP_portafolio_MariaCisterna.xlsm)
+
+### ✦ Mis cápsulas en video ✦
+
+<p align="center">
+  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_01_como_guardo_mi_leche.jpg" width="47%" alt="Cápsula: cómo guardo mi leche"></a>
+  &nbsp;
+  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_04_sueno_seguro.jpg" width="47%" alt="Cápsula: sueño seguro"></a>
+</p>
+<p align="center">
+  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_06_que_es_el_pap.jpg" width="47%" alt="Cápsula: qué es el PAP"></a>
+  &nbsp;
+  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_08_mitos_de_la_lactancia.jpg" width="47%" alt="Cápsula: mitos de la lactancia"></a>
+</p>
+
+<br>
+
+[![Ver portafolio](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Portafolio%20Matrona-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/Matrona/)
+[![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Matrona-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Matrona)
+
+</div>
+
+---
+
 # 🎮 Desarrollo de videojuegos
 
 El desarrollo de videojuegos forma parte activa de mi trabajo dentro de **Studios Conari SpA**.
@@ -368,6 +490,45 @@ Mi experiencia incluye:
 ### Herramientas
 
 `Clip Studio Paint` · `Adobe Photoshop` · `Adobe Acrobat`
+
+---
+
+# 📈 Marketing y presencia digital
+
+Mi perfil tecnológico se complementa con formación en marketing y estrategia digital.
+
+Cuento con conocimientos en:
+
+- Marketing digital.
+- Gestión estratégica.
+- Growth Hacking.
+- Analítica web.
+- Construcción de marca.
+- Marca personal.
+- WordPress.
+- Estrategia de contenidos.
+- Comunicación digital.
+- Crecimiento de negocios digitales.
+
+Esto me permite observar los proyectos no solo desde su construcción técnica, sino también desde su **identidad, presentación, comunicación y público**.
+
+## 🎥 Streaming y creación de contenido
+
+El streaming y la creación de contenido forman parte de mi experiencia dentro del mundo de los videojuegos y las comunidades digitales.
+
+Actualmente las transmisiones se encuentran en **pausa temporal**, mientras concentramos nuestro trabajo en el desarrollo y consolidación de **Studios Conari SpA**.
+
+La intención es retomar progresivamente esta área como parte de la presencia digital del estudio.
+
+El canal lo comparto junto a mi esposo.
+
+<div align="center">
+
+[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
+
+**Streaming actualmente en pausa temporal**
+
+</div>
 
 ---
 
@@ -494,149 +655,6 @@ Las piezas fueron realizadas para **uso personal o como regalos para familiares 
 
 ---
 
-# 📊 Análisis de Datos
-
-Actualmente continúo ampliando mi perfil mediante formación en **Análisis de Datos** a través de Google y Coursera.
-
-He trabajado contenidos relacionados con:
-
-- Pensamiento analítico.
-- Formulación de preguntas.
-- Identificación de problemas.
-- Identificación de stakeholders.
-- Toma de decisiones basada en datos.
-- Organización y estructuración de información.
-- Indicadores.
-- Excel.
-- SQL.
-- Comunicación de resultados.
-
-### Formación completada dentro del programa
-
-✅ Introducing Data Analytics and Analytical Thinking  
-✅ Ask Effective Questions  
-✅ Make Data-Driven Decisions  
-✅ Always Remember the Stakeholder  
-✅ Foundations: Data, Data, Everywhere  
-
-También cuento con formación complementaria en **Power BI**.
-
----
-
-# 🩺 Portafolio de matrona
-
-<p align="center"><a href="https://manecist.github.io/Matrona/"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/banner_portafolio.jpg" width="100%" alt="Portafolio de matrona: 8 páginas interactivas y 8 cápsulas nuevas en video"></a></p>
-
-Llevo a páginas interactivas lo que explico en la consulta: **simple, paso a paso y con fuentes chilenas** (MINSAL, OMS, CDC).
-
-- 🤰 **Cápsula Chile Crece Contigo:** embarazo, parto, recién nacido, lactancia y posparto en 7 etapas.
-- 🎬 **8 cápsulas nuevas en video (2026):** con información actualizada, cada una con resumen y preguntas al final: leche materna, masaje Shantala, chanchitos, sueño seguro, cuándo ir a la maternidad, PAP, píldora del día después y mitos de la lactancia.
-- 📖 **Guías paso a paso con imágenes** (Shantala, guardar la leche, chanchitos, sueño seguro y cuidados del recién nacido) y una **guía de regalo en PDF** para descargar.
-- 💊 **Anticonceptivos al toque** y 📋 **torpedo profesional** con más de 130 marcas de Chile.
-- 📈 **Historias de datos** sobre cáncer, ITS y matronería, y 🎓 mi **tesis visual**.
-- 🧾 **Planilla de registro PAP en Excel:** formulario con macros, edad, vigencia y estado calculados solos, y resumen anual con gráficos (datos 100 % ficticios).
-
-<div align="center">
-
-### ✦ Las 8 páginas interactivas ✦
-
-<table>
-<tr>
-<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/index.jpg" width="100%" alt="🏠 Portada"></a><br><b><a href="https://manecist.github.io/Matrona/">🏠 Portada</a></b></td>
-<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/capsula.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/capsula.jpg" width="100%" alt="🤰 Cápsula Chile Crece Contigo"></a><br><b><a href="https://manecist.github.io/Matrona/capsula.html">🤰 Cápsula Chile Crece Contigo</a></b></td>
-</tr>
-<tr>
-<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/guia-anticonceptivos.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/guia-anticonceptivos.jpg" width="100%" alt="💊 Anticonceptivos al toque"></a><br><b><a href="https://manecist.github.io/Matrona/guia-anticonceptivos.html">💊 Anticonceptivos al toque</a></b></td>
-<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/torpedo.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/torpedo.jpg" width="100%" alt="📋 Torpedo profesional"></a><br><b><a href="https://manecist.github.io/Matrona/torpedo.html">📋 Torpedo profesional</a></b></td>
-</tr>
-<tr>
-<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/historia-cancer.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/historia-cancer.jpg" width="100%" alt="🎗️ Cáncer"></a><br><b><a href="https://manecist.github.io/Matrona/historia-cancer.html">🎗️ Cáncer</a></b></td>
-<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/historia-its.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/historia-its.jpg" width="100%" alt="🔴 ITS"></a><br><b><a href="https://manecist.github.io/Matrona/historia-its.html">🔴 ITS</a></b></td>
-</tr>
-<tr>
-<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/historia-matronas.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/historia-matronas.jpg" width="100%" alt="👩‍⚕️ Matronas"></a><br><b><a href="https://manecist.github.io/Matrona/historia-matronas.html">👩‍⚕️ Matronas</a></b></td>
-<td align="center" width="50%"><a href="https://manecist.github.io/Matrona/tesis.html"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/readme/tesis.jpg" width="100%" alt="🎓 Mi tesis"></a><br><b><a href="https://manecist.github.io/Matrona/tesis.html">🎓 Mi tesis</a></b></td>
-</tr>
-</table>
-
-### ✦ Planilla de registro PAP ✦
-
-<p align="center">
-<a href="https://manecist.github.io/Matrona/#herr"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/pap/pap_registro.webp" width="47%" alt="Planilla PAP: registro por año con vigencia y estado"></a>
-&nbsp;
-<a href="https://manecist.github.io/Matrona/#herr"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/assets/pap/pap_resumen.webp" width="47%" alt="Planilla PAP: resumen anual con gráficos"></a>
-</p>
-
-<sub>Registro por año con vigencia y estado automáticos · Resumen anual por mes, derivaciones a UPC y VPH + · Datos 100 % ficticios</sub>
-
-[![Descargar planilla](https://img.shields.io/badge/DESCARGAR-Planilla%20PAP%20Excel-9ED9C6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDJoMTFsNSA1djE1SDR6bTEwIDEuNVY4aDQuNXpNNyAxMXYyaDR2LTJ6bTYgMHYyaDR2LTJ6bS02IDR2Mmg0di0yem02IDB2Mmg0di0yeiIvPjwvc3ZnPg%3D%3D&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Matrona/raw/refs/heads/main/planilla-pap/PAP_portafolio_MariaCisterna.xlsm)
-
-### ✦ Mis cápsulas en video ✦
-
-<p align="center">
-  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_01_como_guardo_mi_leche.jpg" width="47%" alt="Cápsula: cómo guardo mi leche"></a>
-  &nbsp;
-  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_04_sueno_seguro.jpg" width="47%" alt="Cápsula: sueño seguro"></a>
-</p>
-<p align="center">
-  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_06_que_es_el_pap.jpg" width="47%" alt="Cápsula: qué es el PAP"></a>
-  &nbsp;
-  <a href="https://manecist.github.io/Matrona/capsula.html#misvideos"><img src="https://github.com/manecist/Matrona/raw/refs/heads/main/capsula/videos/portadas/portada_08_mitos_de_la_lactancia.jpg" width="47%" alt="Cápsula: mitos de la lactancia"></a>
-</p>
-
-<br>
-
-[![Ver portafolio](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Portafolio%20Matrona-FF8FD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D3557)](https://manecist.github.io/Matrona/)
-[![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Matrona-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Matrona)
-
-</div>
-
----
-
-# 📊 Tableros de salud en Power BI y Tableau
-
-Cinco tableros con datos públicos de Chile, cada uno con su pregunta, sus KPI y sus conclusiones.
-
-<div align="center">
-
-| | Tablero | Pregunta que responde |
-|:-:|---|---|
-| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_anticonceptivos.png" width="120"> | 💊 **Anticonceptivos en Chile** | ¿Qué método me sirve y qué tan eficaz es? |
-| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_its.png" width="120"> | 🩺 **ITS en Chile** | ¿Están aumentando las ITS y dónde está Chile frente al mundo? |
-| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_embarazo.png" width="120"> | 🤰 **Embarazo y matronería** | ¿Qué pasa con el embarazo adolescente y las matronas? |
-| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_ajuar.png" width="120"> | 🍼 **Ajuar Chile Crece Contigo** | ¿Llega el ajuar a todas las guaguas y por qué importa? |
-| <img src="https://github.com/manecist/Analisis-de-datos-dashboards/raw/refs/heads/main/recursos/mini_cancer.png" width="120"> | 🎗️ **Cáncer en Chile** | ¿Cuánto aumenta el cáncer y cómo le ganamos? |
-
-<br>
-
-[![Ver en mi portafolio](https://img.shields.io/badge/VER%20EN%20L%C3%8DNEA-Tableros%20interactivos-D4AF37?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDIwaDE4djJIM3pNNSAxMWgzdjhINXptNS41LTVoM3YxM2gtM3pNMTYgMmgzdjE3aC0zeiIvPjwvc3ZnPg%3D%3D&logoColor=white&labelColor=1D3557)](https://manecist.github.io/#datos)
-[![Ver repositorio](https://img.shields.io/badge/VER%20REPOSITORIO-Power%20BI%20y%20Tableau-CB8BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1D3557)](https://github.com/manecist/Analisis-de-datos-dashboards)
-
-</div>
-
----
-
-# 📈 Marketing y presencia digital
-
-Mi perfil tecnológico se complementa con formación en marketing y estrategia digital.
-
-Cuento con conocimientos en:
-
-- Marketing digital.
-- Gestión estratégica.
-- Growth Hacking.
-- Analítica web.
-- Construcción de marca.
-- Marca personal.
-- WordPress.
-- Estrategia de contenidos.
-- Comunicación digital.
-- Crecimiento de negocios digitales.
-
-Esto me permite observar los proyectos no solo desde su construcción técnica, sino también desde su **identidad, presentación, comunicación y público**.
-
----
-
 # 🎓 Formación tecnológica
 
 ## 💻 Desarrollo de Aplicaciones Full Stack Java Trainee v2.0
@@ -734,26 +752,6 @@ Actualmente estoy enfocada en:
 - 📚 Producción editorial y documentación.
 - 📣 Identidad y comunicación de Studios Conari.
 - 🎥 Preparación de una futura reactivación del streaming asociado al estudio.
-
----
-
-# 🎥 Streaming & Content Creation
-
-El streaming y la creación de contenido forman parte de mi experiencia dentro del mundo de los videojuegos y las comunidades digitales.
-
-Actualmente las transmisiones se encuentran en **pausa temporal**, mientras concentramos nuestro trabajo en el desarrollo y consolidación de **Studios Conari SpA**.
-
-La intención es retomar progresivamente esta área como parte de la presencia digital del estudio.
-
-El canal lo comparto junto a mi esposo.
-
-<div align="center">
-
-[![Twitch](https://img.shields.io/badge/Twitch-ArianesDCoen-FF8FD8?style=for-the-badge&logo=twitch&logoColor=white&labelColor=6B3FA0)](https://www.twitch.tv/arianesdcoen)
-
-**Streaming actualmente en pausa temporal**
-
-</div>
 
 ---
 
